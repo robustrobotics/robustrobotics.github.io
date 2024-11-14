@@ -29,6 +29,10 @@ hbiggie:
     role: postdoc
 #    webpage: "https://harelbiggie.com"
 
+teststudent:
+   display_name: "Test Student"
+   role: grad
+
 tmanderson:
     display_name: "Travis Manderson"
     webpage: "https://www.cim.mcgill.ca/~travism"
