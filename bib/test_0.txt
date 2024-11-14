@@ -1,0 +1,23 @@
+@inproceedings{noseworthy_shaw_icra24,
+ title={Amortized Inference for Efficient Grasp Model Adaptation},
+ author={Noseworthy, Michael and Seiji, Shaw and Kessens, Chad and Roy, Nick},
+ booktitle={2024 International Conference on Robotics and Automation (ICRA)},
+ year={2024},
+ organization={IEEE},
+}
+
+@inproceedings{veys_icra_24,
+ title={Generating Sparse Probabilistic Graphs for Efficient Planning in Uncertain Environments},
+ author={Veys, Yasmin and Kurtz, Martina Stadler and Roy, Nick},
+ booktitle={2024 International Conference on Robotics and Automation (ICRA)},
+ year={2024},
+ organization={IEEE},
+}
+
+@inproceedings{kurtz_prentice_fricra24,
+ title={Real-world Deployment of a Hierarchical Uncertainty-Aware Collaborative Multiagent Planning System},
+ author={Kurtz, Martina Stadler and Prentice, Samuel and Veys, Yasmin and Quang, Long and Nieto-Granda, Carlos and Novitzky, Michael and Stump, Ethan and Roy, Nick},
+ booktitle={2024 ICRA Workshop on Field Robotics},
+ year={2024},
+ organization={IEEE},
+}

@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MIT RRG: Robotic Expeditionary Science</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+              integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb"
+              crossorigin="anonymous">
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="/css/group.css">
+    </head>
+    <body>
+        <div class="container">
+            <!-- This is a bit nasty, but it basically says be a column first, and on larger screens be a spaced out row -->
+            <div class="header d-flex
+                        flex-column
+                        flex-md-row justify-content-md-between">
+                <a href="/" class="">
+                    <img src="/img/logo.png"
+                         srcset="/img/logo@2x.png 2x"
+                         alt="Awesome" id="logo">
+                </a>
+                <ul class="nav nav-pills nav-link-color justify-content-center">
+
+                    
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color "
+                               href="/">
+                                Home
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color active"
+                               href="/research.html">
+                                Research
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color "
+                               href="/people.html">
+                                People
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color "
+                               href="/publications.html">
+                                Publications
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color "
+                               href="https://www.youtube.com/channel/UCdih_8Zlb6D2Wa6eYn-9T6A">
+                                Videos
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color "
+                               href="/contact.html">
+                                Contact
+                            </a>
+                        </li>
+
+                    
+
+                </ul>
+            </div>
+
+            
+                <img src="https://rrg-test.csail.mit.edu/uploads/Main/Research/spatiotemporal_dynamics.png"
+                     alt="Robotic Expeditionary Science"
+                     style="max-width: 400px"
+                     class="img-fluid mx-auto d-block mb-4"/>
+            
+
+            
+                <h1>Robotic Expeditionary Science</h1>
+            
+
+            <p>In the expeditionary sciences, spatiotemporally varying environments — hydrothermal plumes, algal blooms, lava flows, or animal migrations — are ubiquitous. Mobile robots are uniquely well-suited to study and sample from these dynamic, mesoscale natural environments, however to collect elucidating observations of unknown, partially-observed spatiotemporal distributions for scientific inquiry requires decision-making under uncertainty and sometimes severe operational constraints. For instance, some of the most advanced autonomous underwater vehicles (AUVs) used in oceanographic research operate with open-loop controllers and have severely limited acoustic communication with external actors (i.e., a ship).</p>
+
+<p>We formalize expeditionary science as a <strong>sequential decision-making problem</strong>, modeled using the language of partially-observable Markov decision processes (POMDPs). Solving the expeditionary science POMDP under real-world constraints requires efficient probabilistic modeling and decision-making in problems with complex dynamics and observational models. Previous work in informative path planning, adaptive sampling, and experimental design have shown compelling results, largely in static environments, using data-driven models and information-based rewards. However, these methodologies do not trivially extend to expeditionary science in spatiotemporal environments: they generally do not make use of scientific knowledge such as equations of state dynamics, they focus on information gathering as opposed to scientific task execution, and they make use of decision-making approaches that scale poorly to large, continuous problems with long planning horizons and real-time operational constraints.</p>
+
+<p>In our work, we tackle these and other challenges related to probabilistic modeling and decision-making in expeditionary science. In particular, we look for ways to exploit scientific intuition to overcome challenges in sample efficient dynamics learning under partial observability and leverage notions of uncertainty in dynamic planning windows. We ground our work in specific scientific contexts, such as deep sea hydrothermal vent charting.</p>
+
+<h2 id="research-themes">Research Themes</h2>
+<p>Informative path planning, planning under uncertainty, adaptive sampling, belief representations, physics-informed learning, field robotics</p>
+
+<h2 id="publications">Publications</h2>
+<ul>
+  <li>G. Flaspohler<em>, V. Preston</em>, A.P.M. Michel, Y. Girdhar, and N. Roy. “Information-Guided Robotic Maximum Seek-and-Sample in Partially Observable Continuous Environments” Robotics and Automation Letters, 2019.PDF</li>
+  <li>V. Preston, “Adaptive Sampling of Transient Environmental Phenomena with Autonomous Mobile Platforms” Massachusetts Institute of Technology, Master’s Thesis, 2019. PDF</li>
+  <li>G. Flaspohler, N. Roy, and J.W. Fisher III. “Belief-dependent macro-action discovery in POMDPs using the value of information” Advances in Neural Information Processing Systems, 2020. PDF</li>
+  <li>V. Preston<em>, G. Flaspohler</em>, A.P.M. Michel, J.W. Fisher III, N. Roy. “Robotic Planning under Uncertainty in Spatiotemporal Environments for Expeditionary Science” Conference on Reinforcement Learning and Decision Making, 2022.</li>
+</ul>
+
+
+
+<h2> People </h2>
+<section class="people project-people">
+    
+        
+        
+
+
+
+
+
+
+
+    <div class="person person-with-image row align-items-center">
+        <div class="col-auto">
+            
+
+
+
+
+
+
+
+    <a href="https://vpreston.com/"
+       style="text-decoration: none">
+        
+        <img class="rounded-circle profile"
+             alt="Victoria Preston"
+             title="Victoria Preston"
+             src="/img/people/vpreston.jpg" />
+    
+    </a>
+
+
+        </div>
+        <div class="col pl-0">
+            <h6 class="person-name"> 
+        <a href="https://vpreston.com/"> Victoria Preston </a>
+     </h6>
+            
+                <div class="bio">Ph.D., 2022</div>
+            
+        </div>
+    </div>
+
+
+    
+        
+        
+
+
+
+
+
+
+
+    <div class="person person-with-image row align-items-center">
+        <div class="col-auto">
+            
+
+
+
+
+
+
+
+    <a href="https://geflaspohler.com/"
+       style="text-decoration: none">
+        
+        <img class="rounded-circle profile"
+             alt="Genevieve Flaspohler"
+             title="Genevieve Flaspohler"
+             src="/img/people/gflaspohler.jpg" />
+    
+    </a>
+
+
+        </div>
+        <div class="col pl-0">
+            <h6 class="person-name"> 
+        <a href="https://geflaspohler.com/"> Genevieve Flaspohler </a>
+     </h6>
+            
+                <div class="bio">Ph.D., 2022</div>
+            
+        </div>
+    </div>
+
+
+    
+</section>
+
+            <div class="footer">
+                <p>
+                    <a href="https://www.csail.mit.edu">MIT CSAIL</a>
+		    &nbsp &nbsp &nbsp
+		    <a href="https://accessibility.mit.edu/">Accessibility</a>
+                </p>
+            </div>
+
+        </div> <!-- /container -->
+
+        <!-- Support retina images. -->
+        <script type="text/javascript"
+                src="/js/srcset-polyfill.js"></script>
+    </body>
+</html>

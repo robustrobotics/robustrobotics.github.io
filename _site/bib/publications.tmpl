@@ -1,0 +1,57 @@
+<table class="table">
+<tbody>
+	{%- set prev_year = dict() %}
+	{% set count = namespace(value=0) %}
+	{% set _ = prev_year.update({'val': 1900}) %}
+	{%- for entry in entries %}
+	<tr>
+		<td>
+			<span class="date">
+				{% if entry.fields['year'] != prev_year['val'] %}
+				<big><strong>{{ entry.fields['year'] }}</strong></big><br />
+				{% endif %}
+				{% set _ = prev_year.update({'val': entry.fields['year']}) %}
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				{%- set url = entry|main_url %}
+				<b>{{ entry|title }}</b>.
+			</span><br />
+			<span class="authors">
+				{{ entry.persons['author']|author_list }}.
+			</span><br />
+			<span class="venuetype">{{ entry|venue_type -}}</span><span class="venue"><i>{{ entry|venue -}}</i></span>.
+			{%- if entry.fields['note'] %}
+			<span class="note">
+			{{ entry.fields['note']|escape }}.
+			</span>
+			{%- endif %}
+			<br />
+			<span class="links">
+			{%- for type, url in (entry|extra_urls).items() %}
+				[<a href="{{ url|escape }}">{{ type|escape }}</a>]
+			{%- endfor %}			
+			</span>
+			{%- if url %}
+			<span><a href="https://arxiv.org/pdf/2407.06141"><input class="button-2" type="button" value="pdf"></a></span>
+			{%- endif %}
+			<button class="button-2" onclick="firstP({{count.value}})">Bibtex</button>
+		    <div id="Project{{count.value}}" style="display:none" align="left"> {{entry.to_string('bibtex')}}<div>
+
+			<script>
+			function firstP(elementId) {
+			  var x = document.getElementById('Project'+elementId);
+			  if (x.style.display === "none") {
+			    x.style.display = "block";
+			  } else {
+			    x.style.display = "none";
+			  }
+			}
+			</script>
+			{% set count.value = count.value + 1 %}
+		</td>
+	</tr>
+	{%- endfor %}
+</tbody>
+</table>

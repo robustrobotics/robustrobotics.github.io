@@ -1,0 +1,514 @@
+nroy:
+    display_name: "Nicholas Roy"
+    webpage: "https://aeroastro.mit.edu/people/nicholas-roy/"
+    role: faculty
+    image: /img/people/nroy.jpg
+
+bryt:
+    display_name: "Britton 'Bryt' Bradley"
+    bio: Administrative Assistant II
+    webpage: "https://people.csail.mit.edu/bryt/"
+    github: bryttan
+    role: staff
+    image: /img/people/bryt.jpg
+
+sancha:
+    display_name: "Siddharth Ancha"
+    webpage: "https://siddancha.github.io"
+    role: scientist
+    image: /img/people/sancha.png
+
+jarkin:
+    display_name: "Jacob Arkin"
+    webpage: "https://aeroastro.mit.edu/realm/team/jake-arkin/"
+    role: postdoc
+    image: /img/people/jarkin.jpg
+
+hbiggie:
+    display_name: "Harel Biggie"
+    role: postdoc
+#    webpage: "https://harelbiggie.com"
+
+tmanderson:
+    display_name: "Travis Manderson"
+    webpage: "https://www.cim.mcgill.ca/~travism"
+    role: postdoc
+    image: /img/people/tmanderson.jpeg
+
+cbradley:
+    display_name: "Christopher Bradley"
+    role: grad
+
+echen:
+    display_name: "Eric Chen"
+    role: grad
+    webpage: "https://echen9898.github.io/"
+    image: /img/people/echen.png
+
+efahnestock:
+    display_name: "Ethan Fahnestock"
+    role: grad
+    webpage: "https://www.whoi.edu/profile/ethan.fahnestock/"
+    image: /img/people/efahnestock.jpeg
+
+efuentes:
+    display_name: "Erick Fuentes"
+    role: grad
+    webpage: "https://erickfuent.es/"
+    image: /img/people/efuentes.jpg
+
+mnoseworthy:
+    display_name: "Michael Noseworthy"
+    role: grad
+    webpage: "https://noseworm.github.io/"
+    image: /img/people/mnoseworthy.jpg
+    
+asaravanan:
+    display_name: "Akila Saravanan"
+    role: grad
+
+sshaw:
+    display_name: "Seiji Shaw"
+    role: grad
+    webpage: "https://seijis.csail.mit.edu/"
+    image: /img/people/sshaw.jpeg
+
+yveys:
+    display_name: "Yasmin Veys"
+    role: grad
+    image: /img/people/yveys.png
+
+ibrand:
+    display_name: "Izzy Brand"
+    bio: "On leave"
+    role: grad
+    webpage: "https://izzybrand.github.io/portfolio/"
+
+jperairebueno:
+    display_name: "James Peraire-Bueno"
+    bio: "On leave"
+    role: grad
+
+daksaray:
+    display_name: "Derya Aksaray"
+    role: alum
+    bio: "Postdoc 2017"
+
+eallen:
+    display_name: "Esther Allen"
+    role: alum
+    bio: "Administrative Assistant II, 2022-2024"
+
+abachrach:
+    display_name: "Abraham Bachrach"
+    role: alum
+    bio: "Ph.D., 2013"
+
+abanerjee:
+    display_name: "Ashis Banerjee"
+    role: alum
+    bio: "Research Scientist, 2012"
+
+jbanfi:
+    display_name: "Jacopo Banfi"
+    role: alum
+    bio: "Postdoc 2023"
+    webpage: "https://sites.google.com/view/jacopobanfi"
+    image: /img/people/jbanfi.jpg
+lbrandt:
+    display_name: "Laura Brandt"
+    role: alum
+    bio: "Ph.D., 2024"
+    webpage: "https://lebrandt.github.io/"
+    image: /img/people/lbrandt.jpg
+
+ebrunskill:
+    display_name: "Emma Brunskill"
+    role: alum
+    bio: "Ph.D., 2009"
+
+abry:
+    display_name: "Adam Bry"
+    role: alum
+    bio: "SM, 2011"
+
+lbush:
+    display_name: "Larry Bush"
+    role: alum
+
+jcarter:
+    display_name: "John Carter"
+    role: alum
+    bio: "SWE, 2021"
+
+scastro:
+    display_name: "Sebastian Castro"
+    role: alum
+    bio: "SWE, 2021"
+    webpage: "https://roboticseabass.com/"
+
+rchang:
+    display_name: "Raphael Chang"
+    role: alum
+    bio: "MEng, 2019"
+
+sdickerson:
+    display_name: "Steven Dickerson"
+    role: alum
+    bio: "SB, 2011"
+
+kdoherty:
+    display_name: "Kevin Doherty"
+    role: alum
+    bio: "WHOI"
+    webpage: "https://people.csail.mit.edu/kdoherty/"
+
+fdoshi:
+    display_name: "Finale Doshi"
+    role: alum
+    bio: "Ph.D., 2012"
+
+mdoniec:
+    display_name: "Marek Doniec"
+    role: alum
+    bio: "Research Scientist, 2014"
+    webpage: "https://www.doniec.de/"
+
+cearnest:
+    display_name: "Caleb Earnest"
+    role: alum
+    bio: "SM, 2005"
+
+gflaspohler:
+    display_name: "Genevieve Flaspohler"
+    role: alum
+    bio: "Ph.D., 2022"
+    webpage: "https://geflaspohler.com/"
+    image: /img/people/gflaspohler.jpg
+
+dgiraldez:
+    display_name: "Dember Giraldez"
+    role: alum
+    bio: "MEng, 2011"
+
+nglabinski:
+    display_name: "Nicole Glabinski"
+    role: alum
+    bio: "SM, 2017"
+
+jglover:
+    display_name: "Jared Glover"
+    role: alum
+    bio: "SM, 2008"
+
+vgordeski:
+    display_name: "Valerie Gordeski"
+    role: alum
+    bio: "MEng, 2008"
+
+wgreene:
+    display_name: "W. Nicholas Greene"
+    role: alum
+    bio: "Ph.D, 2020"
+    webpage: "https://wngreene.github.io/"
+
+cguan:
+    display_name: "Charlie Guan"
+    role: alum
+    bio: "SM, 2018"
+    webpage: "https://www.charlieguan.com/"
+
+shasenfus:
+    display_name: "Sophia Hasenfus"
+    role: alum
+    bio: "MIT WGS, AAII, 2017"
+
+rhe:
+    display_name: "Ruijie He"
+    role: alum
+    bio: "Ph.D., 2010"
+
+ghemann:
+    display_name: "Garrett Hemann"
+    role: alum
+    bio: "SB, 2011"
+
+khobbs:
+    display_name: "Katherine Hobbs"
+    role: alum
+    bio: "SB, 2013"
+
+thoward:
+    display_name: "Thomas Howard"
+    role: alum
+    bio: "Research Scientist, 2014"
+
+ahuang:
+    display_name: "Albert Huang"
+    role: alum
+    bio: "Postdoc, 2011"
+
+vhuynh:
+    display_name: "Vu Anh Huynh"
+    role: alum
+    bio: "SM, 2008"
+
+ljirachuphun:
+    display_name: "Laphonchai Jirachuphun"
+    role: alum
+    bio: "SM, 2017"
+
+jjoseph:
+    display_name: "Joshua Joseph"
+    role: alum
+    bio: "Ph.D., 2013"
+
+djourdan:
+    display_name: "Damien Jourdan"
+    role: alum
+    bio: "Ph.D., 2006"
+
+jkelly:
+    display_name: "Jonathan Kelly"
+    role: alum
+    bio: "Postdoc, 2013"
+
+mknowles:
+    display_name: "Milo Knowles"
+    role: alum
+    bio: "MEng, 2020"
+
+tkollar:
+    display_name: "Tom Kollar"
+    role: alum
+    bio: "Ph.D., 2011"
+
+mkunda:
+    display_name: "Maithilee Kunda"
+    role: alum
+    bio: "SB, 2005"
+
+mskurtz:
+    display_name: "Martina Stadler Kurtz"
+    role: alum
+    webpage: "https://mkstadler.github.io"
+    bio: "Ph.D., 2024"
+    image: /img/people/mkurtz.jpeg
+
+kliu:
+    display_name: "Katherine Liu"
+    role: alum
+    bio: "Ph.D., 2021"
+
+plommel:
+    display_name: "Peter Lommel"
+    role: alum
+    bio: "SM, 2005"
+
+dnyga:
+    display_name: "Daniel Nyga"
+    role: alum
+    bio: "University of Bremen-Institute for Artificial Intelligence, Visitor, Jan-Apr 2018"
+    webpage: "https://ai.uni-bremen.de/team/daniel_nyga"
+
+kok:
+    display_name: "Kyel Ok"
+    role: alum
+    bio: "Ph. D., 2021"
+    webpage: "http://www.korobotics.com/"
+
+dpark:
+    display_name: "Daehyung Park"
+    role: alum
+    bio: "Postdoc, 2020"
+    webpage: "https://www.daehyungpark.com/"
+
+spark:
+    display_name: "Sooho Park"
+    role: alum
+    bio: "SM, 2009"
+
+rpaul:
+    display_name: "Rohan Paul"
+    role: alum
+    bio: "Postdoc, 2019"
+
+vperetroukhin:
+    display_name: "Valentin Peretroukhin"
+    role: alum
+    bio: "Postdoc, 2021"
+    webpage: "https://valentinp.com/"
+
+sprentice:
+    display_name: "Sam Prentice"
+    role: alum
+    bio: "Ph.D., 2021 & Research Scientist, 2024"
+    webpage: "https://people.csail.mit.edu/prentice/"
+
+vpreston:
+    display_name: "Victoria Preston"
+    role: alum
+    bio: "Ph.D., 2022"
+    webpage: "https://vpreston.com/"
+    image: /img/people/vpreston.jpg
+
+crichter:
+    display_name: "Charles Richter"
+    role: alum
+    bio: "Ph.D., 2017"
+
+krohanimanesh:
+    display_name: "Kashayar Rohanimanesh"
+    role: alum
+    bio: "Postdoc, 2006"
+
+yrouben:
+    display_name: "Yousif F D Rouben"
+    role: alum
+    bio: "SM, 2018"
+
+sroy:
+    display_name: "Subhro Roy"
+    role: alum
+    bio: "Postdoc, 2019"
+
+krutledge:
+    display_name: "Kwesi Rutledge"
+    role: alum
+    bio: "Postdoc 2023"
+    webpage: "https://www.kwesirutledge.info/"
+
+mryll:
+    display_name: "Markus Ryll"
+    role: alum
+    bio: "Postdoc, 2020"
+
+nschurr:
+    display_name: "Naomi Schurr"
+    role: alum
+    bio: "SM, 2018"
+
+dsimeonov:
+    display_name: "Dimitar Simeonov"
+    role: alum
+    bio: "MEng, 2012"
+
+gstein:
+    display_name: "Gregory Stein"
+    role: alum
+    bio: "Ph. D., 2020"
+    webpage: "https://gjstein.com/"
+    image: /img/people/gstein.jpg
+
+stellex:
+    display_name: "Stefanie Tellex"
+    role: alum
+    bio: "RS, 2013"
+
+pthaker:
+    display_name: "Pratiksha Thaker"
+    role: alum
+    bio: "SB, 2013"
+
+mtucker:
+    display_name: "Mycal Tucker"
+    role: alum
+    bio: "MEng, 2016"
+
+vvasilopoulos:
+    display_name: "Vasileios Vasilopoulos"
+    role: alum
+    bio: "Postdoc, 2022"
+    webpage: "https://people.csail.mit.edu/vvasilo/"
+
+wvega-brown:
+    display_name: "Will Vega-Brown"
+    role: alum
+    bio: "Ph. D., 2019"
+
+jvelez:
+    display_name: "Javier Velez"
+    role: alum
+    bio: "Ph.D., 2015"
+
+nvillanueva:
+    display_name: "Nicholas 'Nick' Villanueva"
+    role: alum
+    bio: "SM, 2018"
+
+hvuong:
+    display_name: "Hon Fai Vuong"
+    role: alum
+    bio: "Ph.D., 2007"
+
+jware,:
+    display_name: "John 'Jake' Ware,"
+    role: alum
+    bio: "SM, 2016, SWE 2020"
+
+bwerner:
+    display_name: "Benjamin Werner"
+    role: alum
+    bio: "SM, 2008"
+
+jwiken:
+    display_name: "James Wiken"
+    role: alum
+    bio: "SB, 2013"
+
+# collab-a:
+#     display_name: "Collaborator A"
+#     role: collab
+
+# collab-b:
+#     display_name: "Collaborator B With Long Name"
+#     role: collab
+
+# collab-c:
+#     display_name: "Collaborator C"
+#     role: collab
+
+# collab-d:
+#     display_name: "Collaborator D"
+#     role: collab
+
+# collab-e:
+#     display_name: "Collaborator E"
+#     role: collab
+
+ugrad-a:
+    display_name: "Atharv Jain"
+    role: ugrad
+
+ugrad-alum-a:
+    display_name: "Joana Nikolova"
+    role: ugrad-alum-alum
+
+ugrad-alum-b:
+    display_name: "Louisa Wood"
+    role: ugrad-alum
+
+ugrad-alum-c:
+    display_name: "Howard Beck"
+    role: ugrad-alum
+
+ugrad-alum-d:
+    display_name: "Frank Gonzales"
+    role: ugrad-alum
+
+ugrad-alum-e:
+    display_name: "Meenal Parikh"
+    role: ugrad-alum
+
+ugrad-alum-f:
+    display_name: "Steven Marquez"
+    role: ugrad-alum
+
+ugrad-alum-g:
+    display_name: "Mary Lau"
+    role: ugrad-alum
+
+ugrad-alum-h:
+    display_name: "Stephanie Fu"
+    role: ugrad-alum
+

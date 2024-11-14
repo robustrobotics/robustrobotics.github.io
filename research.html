@@ -1,0 +1,41 @@
+---
+layout: default
+title: Research Projects
+---
+<section>
+    <h2>Overview</h2>
+    <p>The research advising statement for the RRG can be read <a href="https://aeroastro.mit.edu/wp-content/uploads/2021/10/AdvisingPhilosophy.Roy_.2021.pdf">here.</a></p>
+    <p>The research impact and group values statement for the RRG can be read <a href="/docs/rrg_research_impact_group_values.pdf">here.</a></p>
+</section>
+
+<section>
+    <h2>Current Projects</h2>
+    <div class="card-columns">
+        {% comment %}
+        Sort the projects by date, putting those without dates last
+        {% endcomment %}
+        {% assign projects_by_date = site.projects | sort: 'last-updated', 'first' %}
+        {% assign projects_by_date = projects_by_date | reverse %}
+        {% for p in projects_by_date %}
+            {% if p.status != "inactive" %}
+                {% include project-card.html project=p %}
+            {% endif %}
+        {% endfor %}
+    </div>
+</section>
+
+<section>
+    <h2>Past Projects</h2>
+    <div class="card-columns">
+        {% comment %}
+        Sort the projects by date, putting those without dates last
+        {% endcomment %}
+        {% assign projects_by_date = site.projects | sort: 'last-updated', 'first' %}
+        {% assign projects_by_date = projects_by_date | reverse %}
+        {% for p in projects_by_date %}
+            {% if p.status == "inactive" %}
+                {% include project-card.html project=p %}
+            {% endif %}
+        {% endfor %}
+    </div>
+</section>

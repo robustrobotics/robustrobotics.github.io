@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MIT RRG: Planning Under Uncertainty</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+              integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb"
+              crossorigin="anonymous">
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="/css/group.css">
+    </head>
+    <body>
+        <div class="container">
+            <!-- This is a bit nasty, but it basically says be a column first, and on larger screens be a spaced out row -->
+            <div class="header d-flex
+                        flex-column
+                        flex-md-row justify-content-md-between">
+                <a href="/" class="">
+                    <img src="/img/logo.png"
+                         srcset="/img/logo@2x.png 2x"
+                         alt="Awesome" id="logo">
+                </a>
+                <ul class="nav nav-pills nav-link-color justify-content-center">
+
+                    
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color "
+                               href="/">
+                                Home
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color active"
+                               href="/research.html">
+                                Research
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color "
+                               href="/people.html">
+                                People
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color "
+                               href="/publications.html">
+                                Publications
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color "
+                               href="https://www.youtube.com/channel/UCdih_8Zlb6D2Wa6eYn-9T6A">
+                                Videos
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color "
+                               href="/contact.html">
+                                Contact
+                            </a>
+                        </li>
+
+                    
+
+                </ul>
+            </div>
+
+            
+
+            
+                <h1>Planning Under Uncertainty</h1>
+            
+
+            <p>Continuous-state POMDPs provide a natural representation for a variety of tasks, including many in robotics. However, existing continuous-state POMDP approaches are limited by their reliance on a single linear model to represent the world dynamics. We have developed new switching-state (hybrid) dynamics models that can represent multi-modal state-dependent dynamics, and a new point-based POMDP planning algorithm for solving continuous-state POMDPs using this dynamics model. Additionally, POMDPs have succeeded in many planning domains because they can optimally trade between actions that increase an agent’s knowledge and actions that increase an agent’s reward. Unfortunately, most real-world POMDPs are defined with a large number of parameters which are difficult to specify from domain knowledge alone.</p>
+
+<p>We have shown that the POMDP model parameters can be incorporated as additional hidden states in a larger ‘model-uncertainty’ POMDP, and we have developed an approximate algorithm for planning in the induced `model-uncertainty’ POMDP. This approximation, coupled with model-directed queries, allows the planner to actively learn the true underlying POMDP and the accompanying policy.</p>
+
+<h2 id="publications">Publications</h2>
+<ul>
+  <li>E. Brunskill, L. Kaelbling, T. Lozano-Perez and Nicholas Roy. “Continuous-State POMDPs with Hybrid Dynamics’’. Proceedings of the Tenth International Symposium on Artificial Intelligence and Mathematics, Fort Lauderdale, FL, 2008.</li>
+  <li>F. Doshi, J. Pineau and N. Roy. “Bayes Risk for Active Learning in POMDPs’’. Proceedings of the International Conference on Machine Learning (ICML), Helsinki, Finland, 2008, pp. 256-263.</li>
+</ul>
+
+
+<h2> People </h2>
+<section class="people project-people">
+    
+        
+        
+
+
+
+
+
+
+
+    <div class="person person-with-image row align-items-center">
+        <div class="col-auto">
+            
+
+
+
+
+
+
+
+    
+        <svg class="profile noprofile"
+             alt="Emma Brunskill"
+             viewBox="0 0 100 100">
+            <title>Emma Brunskill</title>
+            <circle r="50" cx="50" cy="50" />
+            <text x="50" y="50"
+                  font-size="70"
+                  text-anchor="middle" dominant-baseline="central" >
+                E
+            </text>
+        </svg>
+    
+
+
+        </div>
+        <div class="col pl-0">
+            <h6 class="person-name"> Emma Brunskill </h6>
+            
+                <div class="bio">Ph.D., 2009</div>
+            
+        </div>
+    </div>
+
+
+    
+        
+        
+
+
+
+
+
+
+
+    <div class="person person-with-image row align-items-center">
+        <div class="col-auto">
+            
+
+
+
+
+
+
+
+    
+        <svg class="profile noprofile"
+             alt="Finale Doshi"
+             viewBox="0 0 100 100">
+            <title>Finale Doshi</title>
+            <circle r="50" cx="50" cy="50" />
+            <text x="50" y="50"
+                  font-size="70"
+                  text-anchor="middle" dominant-baseline="central" >
+                F
+            </text>
+        </svg>
+    
+
+
+        </div>
+        <div class="col pl-0">
+            <h6 class="person-name"> Finale Doshi </h6>
+            
+                <div class="bio">Ph.D., 2012</div>
+            
+        </div>
+    </div>
+
+
+    
+</section>
+
+            <div class="footer">
+                <p>
+                    <a href="https://www.csail.mit.edu">MIT CSAIL</a>
+		    &nbsp &nbsp &nbsp
+		    <a href="https://accessibility.mit.edu/">Accessibility</a>
+                </p>
+            </div>
+
+        </div> <!-- /container -->
+
+        <!-- Support retina images. -->
+        <script type="text/javascript"
+                src="/js/srcset-polyfill.js"></script>
+    </body>
+</html>

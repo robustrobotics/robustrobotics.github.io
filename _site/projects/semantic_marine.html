@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MIT RRG: Enabling Semantic Understanding for Autonomous Marine Robots</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+              integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb"
+              crossorigin="anonymous">
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="/css/group.css">
+    </head>
+    <body>
+        <div class="container">
+            <!-- This is a bit nasty, but it basically says be a column first, and on larger screens be a spaced out row -->
+            <div class="header d-flex
+                        flex-column
+                        flex-md-row justify-content-md-between">
+                <a href="/" class="">
+                    <img src="/img/logo.png"
+                         srcset="/img/logo@2x.png 2x"
+                         alt="Awesome" id="logo">
+                </a>
+                <ul class="nav nav-pills nav-link-color justify-content-center">
+
+                    
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color "
+                               href="/">
+                                Home
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color active"
+                               href="/research.html">
+                                Research
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color "
+                               href="/people.html">
+                                People
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color "
+                               href="/publications.html">
+                                Publications
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color "
+                               href="https://www.youtube.com/channel/UCdih_8Zlb6D2Wa6eYn-9T6A">
+                                Videos
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link nav-link-color "
+                               href="/contact.html">
+                                Contact
+                            </a>
+                        </li>
+
+                    
+
+                </ul>
+            </div>
+
+            
+
+            
+                <h1>Enabling Semantic Understanding for Autonomous Marine Robots</h1>
+            
+
+            <p>The oceans cover over 70% of the Earth’s surface, yet less than five percent of this important biosphere has been explored to date. Much of the vast marine environment is dangerous or inaccessible to human divers. Thus, the task of exploring Earth’s oceans will fall to marine robots. However, the development of exploratory marine robots has been stymied by the marine environment’s unique challenges. The lack of radio communication forces all human control to pass through high latency, low-bandwidth acoustic channels or hardwire tethers. These conditions necessitate the development of comprehensive and robust robot autonomy.</p>
+
+<p>Our work in this area is split between two complementary thrusts: 1) learning an abstract representation of underwater image data that is conducive to semantic reasoning, and 2) using that abstract representation to build probabilistic models of the robot’s visual environment that allow more efficient exploratory path planning, anomaly detection, and mission data summarization.</p>
+
+<p>We plan to address the problem of learning a meaningful feature representation of underwater images using deep learning. Even given the impressive performance of deep learning algorithms on computer vision problems, this is still challenging. Underwater images are very visually distinct from standard image datasets and there are no large corpora of labeled underwater image data available. Our current research direction involves using unsupervised convolutional autoencoders or minimally-supervised transfer learning frameworks to learn a latent feature representation of underwater image data.</p>
+
+<p>Given this abstract feature representation, we are applying various probabilistic models to represent the robot’s knowledge about the observable world. Topic models provide a natural probabilistic framework for both anomaly detection and data summarization. Much of our previous work has focused on extending the Hierarchical Dirichlet Process (HDP), a Bayesian nonparametric topic model, to the real-time, spatiotemporal image data from a marine robot’s video stream. Our ongoing research direction involves building more sophisticated hierarchical topic models that allow a robot to understand the environment at multiple levels of abstraction.</p>
+
+
+<h2> People </h2>
+<section class="people project-people">
+    
+</section>
+
+            <div class="footer">
+                <p>
+                    <a href="https://www.csail.mit.edu">MIT CSAIL</a>
+		    &nbsp &nbsp &nbsp
+		    <a href="https://accessibility.mit.edu/">Accessibility</a>
+                </p>
+            </div>
+
+        </div> <!-- /container -->
+
+        <!-- Support retina images. -->
+        <script type="text/javascript"
+                src="/js/srcset-polyfill.js"></script>
+    </body>
+</html>

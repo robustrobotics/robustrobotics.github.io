@@ -1,0 +1,55 @@
+name: MIT RRG
+url: http://people.csail.mit.edu/mstadler/
+
+exclude: [bibble, README.md, Makefile, screenshot.png]
+
+# colorize code snippets with the pygments module
+highlighter: pygments
+
+# The path structure for blog posts.
+permalink: /blog/:year/:month/:day/:title.html
+
+# Sections on the "people" page.
+roles:
+  - key: faculty
+    name: Faculty
+  - key: staff
+    name: Administrative Staff
+  - key: scientist
+    name: Research Scientists    
+  - key: postdoc
+    name: Postdoctoral Associates
+  - key: visitor
+    name: Visitors
+  - key: grad
+    name: Graduate Students
+  - key: ugrad
+    name: Undergraduate Students
+  - key: alum
+    name: Alumni
+
+# Number of news stories on the front page.
+front_page_news: 8
+
+# Base pathname for links.
+base: ''
+
+# make pages for the _projects folder
+collections:
+  projects:
+    output: true
+
+# Navigation bar links.
+navigation:
+  - title: Home
+    link: /
+  - title: Research
+    link: /research.html
+  - title: People
+    link: /people.html
+  - title: Publications
+    link: /publications.html
+  - title: Videos
+    link: "https://www.youtube.com/channel/UCdih_8Zlb6D2Wa6eYn-9T6A"
+  - title: Contact
+    link: /contact.html
