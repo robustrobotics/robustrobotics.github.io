@@ -23,18 +23,12 @@
 			</span><br />
 			<span class="venuetype">{{ entry|venue_type -}}</span><span class="venue"><i>{{ entry|venue -}}</i></span>.
 			{%- if entry.fields['note'] %}
-			<span class="note">
-			{{ entry.fields['note']|escape }}.
-			</span>
+			<span><a href="{{note}}"><input class="button-2" type="button" value="compressed postscript"></a></span>
 			{%- endif %}
 			<br />
-			<span class="links">
-			{%- for type, url in (entry|extra_urls).items() %}
-				[<a href="{{ url|escape }}">{{ type|escape }}</a>]
-			{%- endfor %}			
-			</span>
+
 			{%- if url %}
-			<span><a href="https://arxiv.org/pdf/2407.06141"><input class="button-2" type="button" value="pdf"></a></span>
+			<span><a href="{{url}}"><input class="button-2" type="button" value="pdf"></a></span>
 			{%- endif %}
 			<button class="button-2" onclick="firstP({{count.value}})">Bibtex</button>
 		    <div id="Project{{count.value}}" style="display:none" align="left"> {{entry.to_string('bibtex')}}<div>
