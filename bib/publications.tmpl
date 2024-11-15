@@ -22,10 +22,11 @@
 				{{ entry.persons['author']|author_list }}.
 			</span><br />
 			<span class="venuetype">{{ entry|venue_type -}}</span><span class="venue"><i>{{ entry|venue -}}</i></span>.
-			{%- if entry.fields['note'] %}
-			<span><a href="{{note}}"><input class="button-2" type="button" value="compressed postscript"></a></span>
-			{%- endif %}
 			<br />
+
+			{%- if entry.fields['note'] %}
+			<span><a href="{{entry.fields['note']}}"><input class="button-2" type="button" value="compressed postscript"></a></span>
+			{%- endif %}
 
 			{%- if url %}
 			<span><a href="{{url}}"><input class="button-2" type="button" value="pdf"></a></span>
