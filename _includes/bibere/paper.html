@@ -70,28 +70,20 @@
                 {%- endif -%}
             {%- endfor -%}
         {%- endif -%}
-        <!-- Abstract -->
-        {%- if paper.abstract -%}
-        &nbsp;<a class="collapse-clicker" onclick="$('#{{ clean_id }}_abstract').slideToggle(200)">Abstract</a>,
-        {%- endif -%}
+
         <!-- BibTex -->
-        <a class="collapse-clicker" onclick="$('#{{ clean_id }}_bibtex').slideToggle(200)">BibTex</a> ]
-        {%- if paper.abstract -%}
-        <div class="collapse" id="{{ clean_id }}_abstract">
-        <div class="panel panel-primary">
-            <div class="panel-body details-panel">
-            {{- paper.abstract  -}}
-            </div>
-        </div>
-        </div>
-        {%- endif -%}
+        <details>
+        <summary>BibTex</summary>
+        {%- include bibere/bibtex.html pid=include.pid -%}
+        </details>
+        <!-- <a class="collapse-clicker" onclick="$('#{{ clean_id }}_bibtex').slideToggle(200)">BibTex</a> ]
         <div class="collapse" id="{{ clean_id }}_bibtex">
         <div class="panel panel-info">
             <pre class="panel-body details-panel">
             {%- include bibere/bibtex.html pid=include.pid -%}
             </pre>
         </div>
-        </div>
+        </div> -->
     </li>
 {%- else -%}
     <p class="text-danger">Paper with id {{include.pid}} not found!</p>
