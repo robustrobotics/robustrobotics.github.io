@@ -59,20 +59,7 @@
         <span class="note">{{ paper.note }}</span><br/>
         {%- endif -%}
         <!-- Links -->
-        [
-        <!-- BibTex -->
-        <details>
-            <summary>BibTex</summary>
-            {%- include bibere/bibtex.html pid=include.pid -%}
-            </details>
-            <!-- <a class="collapse-clicker" onclick="$('#{{ clean_id }}_bibtex').slideToggle(200)">BibTex</a> ]
-            <div class="collapse" id="{{ clean_id }}_bibtex">
-            <div class="panel panel-info">
-                <pre class="panel-body details-panel">
-                {%- include bibere/bibtex.html pid=include.pid -%}
-                </pre>
-            </div>
-            </div> -->
+        [ 
         {%- if paper.links -%}
             {%- for item in paper.links -%} 
                 {% assign link_first_char = item.link | slice:0,1 %}
@@ -83,7 +70,19 @@
                 {%- endif -%}
             {%- endfor -%}
         {%- endif -%}
-        ]
+        <!-- BibTex -->
+        <details>
+        <summary>BibTex]</summary>
+        {%- include bibere/bibtex.html pid=include.pid -%}
+        </details>
+        <!-- <a class="collapse-clicker" onclick="$('#{{ clean_id }}_bibtex').slideToggle(200)">BibTex</a> ]
+        <div class="collapse" id="{{ clean_id }}_bibtex">
+        <div class="panel panel-info">
+            <pre class="panel-body details-panel">
+            {%- include bibere/bibtex.html pid=include.pid -%}
+            </pre>
+        </div>
+        </div> -->
     </li>
 {%- else -%}
     <p class="text-danger">Paper with id {{include.pid}} not found!</p>
