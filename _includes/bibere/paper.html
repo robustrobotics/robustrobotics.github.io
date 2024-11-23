@@ -1,3 +1,7 @@
+<head>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+</head>
+
 {%- assign paper = site.data.bibere.papers[include.pid] -%}
 {%- if paper -%}
     {%- capture clean_id -%}
@@ -70,10 +74,6 @@
                 {%- endif -%}
             {%- endfor -%}
         {%- endif -%}
-        <!-- &nbsp;<details>
-        <summary>BibTex]</summary>
-        {%- include bibere/bibtex.html pid=include.pid -%}
-        </details> -->
         <a class="collapse-clicker" onclick="$('#{{ clean_id }}_bibtex').slideToggle(200)">BibTex</a> ]
         <div class="collapse" id="{{ clean_id }}_bibtex">
         <div class="panel panel-info">
