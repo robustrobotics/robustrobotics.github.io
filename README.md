@@ -1,3 +1,55 @@
+RRG Website Instructions
+================================
+We have a new website (finally)! The website is built entirely using github actions, so you should only need to edit & commit changes to .yml files in this repository. After you commit changes, a github action (i.e. build) will automatically start, visible on the 'Actions' page of the repository (shown as an action with an orange dot next to it). After about 90sec, the build should be finished (green check mark for success, red x for failure). If you have any issues with a new commit, you can always revert using standard git tools.
+
+There are a few key areas you may want to edit in this website; instructions below.
+
+# To or edit the people in the website:
+go to robustrobotics.github.io/_data/people.yml and add another entry to the file. For example, this is Nick's entry:
+nroy:
+    display_name: "Nicholas Roy"
+    webpage: "https://aeroastro.mit.edu/people/nicholas-roy/"
+    role: faculty
+    image: /img/people/nroy.jpg
+
+Valid roles are: faculty, staff, scientist, postdoc, grad, ugrad, visitor, and alum. Entries are automatically added to the website based on their assigned role.
+
+You can also edit your entry to include your website or image (pictures should be uploaded to /robustrobotics.github.io/img/people).
+
+# To add a publication to the website:
+Go to the file robustrobotics.github.io/_data/bibere/papers.yml and add your entry according to the yaml file structure. Example here:
+kurtz_prentice_fricra24:
+  authors:
+  - Martina Stadler Kurtz*
+  - Samuel Prentice*
+  - Yasmin Veys
+  - Long Quang
+  - Carlos Nieto-Granda
+  - Michael Novitzky
+  - Ethan Stump
+  - Nick Roy
+  links:
+  - link: http://groups.csail.mit.edu/rrg/papers/kurtz_prentice_fricra24.pdf
+    name: PDF
+  raw_string: "@inproceedings{kurtz_prentice_fricra24,\n title={Real-world Deployment\
+    \ of a Hierarchical Uncertainty-Aware Collaborative Multiagent Planning System},\n\
+    \ author={Kurtz*, Martina Stadler and Prentice*, Samuel and Veys, Yasmin and Quang,\
+    \ Long and Nieto-Granda, Carlos and Novitzky, Michael and Stump, Ethan and Roy,\
+    \ Nick},\n booktitle={2024 ICRA Workshop on Field Robotics},\n year={2024},\n\
+    \ organization={IEEE},\n url = {http://groups.csail.mit.edu/rrg/papers/kurtz_prentice_fricra24.pdf}\n\
+    }\n\n"
+  title: Real-world Deployment of a Hierarchical Uncertainty-Aware Collaborative Multiagent
+    Planning System
+  year: 2024
+
+Note: The authors, links, title, and year are used to automatically make the entry/text/links on the publications page of the website. The raw_string is what is displayed in the 'BibTex' dropdown on the publications page. Add all additional information  (e.g. organization, etc) to the raw_string param, not in the main yaml entry; otherwise, it will not be included in the bibtex entry (and the website currently does not support including other information on the main publications page).
+
+# To add a research project to the website:
+Create a new markdown file in this directory: robustrobotics.github.io/_projects with the same structure as the other files in the directory. After committing the change, the project will automatically be added to the website. Note that you can archive projects (remove them from the home page and add them to the 'Past Projects' section of the Research page) using the 'status: inactive' flag in the project .md.
+
+# To add a news item to the website:
+Create a new markdown file in this directory: robustrobotics.github.io/_posts. Note that the first part of the name of the file should be the date of the post.
+
 Research Group Web Site Template
 ================================
 
