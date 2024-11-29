@@ -6,11 +6,13 @@ There are a few key areas you may want to edit in this website; instructions bel
 
 # To or edit the people in the website:
 go to robustrobotics.github.io/_data/people.yml and add another entry to the file. For example, this is Nick's entry:
+```
 nroy:
     display_name: "Nicholas Roy"
     webpage: "https://aeroastro.mit.edu/people/nicholas-roy/"
     role: faculty
     image: /img/people/nroy.jpg
+```
 
 Valid roles are: faculty, staff, scientist, postdoc, grad, ugrad, visitor, and alum. Entries are automatically added to the website based on their assigned role.
 
@@ -18,6 +20,7 @@ You can also edit your entry to include your website or image (pictures should b
 
 # To add a publication to the website:
 Go to the file robustrobotics.github.io/_data/bibere/papers.yml and add your entry according to the yaml file structure. Example here:
+```
 kurtz_prentice_fricra24:
   authors:
   - Martina Stadler Kurtz*
@@ -41,6 +44,7 @@ kurtz_prentice_fricra24:
   title: Real-world Deployment of a Hierarchical Uncertainty-Aware Collaborative Multiagent
     Planning System
   year: 2024
+```
 
 Note: The authors, links, title, and year are used to automatically make the entry/text/links on the publications page of the website. The raw_string is what is displayed in the 'BibTex' dropdown on the publications page. Add all additional information  (e.g. organization, etc) to the raw_string param, not in the main yaml entry; otherwise, it will not be included in the bibtex entry (and the website currently does not support including other information on the main publications page).
 
