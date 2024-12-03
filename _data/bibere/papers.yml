@@ -9,7 +9,7 @@
   - link: http://groups.csail.mit.edu/rrg/papers/iFDD-Final.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/iFDD-Final.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@inproceedings{11icml-iFDD,\n  Author = {Alborz Geramifard and Finale\
     \ Doshi and Josh Redding and Nicholas Roy and Jonathan P. How},\n  Booktitle =\
     \ {Proceedings of the 23rd International Conference on Machine Learning (ICML)\
@@ -17,6 +17,8 @@
     \  Year = {2011},\n  url = {http://groups.csail.mit.edu/rrg/papers/iFDD-Final.pdf},\n\
     \  note = {http://groups.csail.mit.edu/rrg/papers/iFDD-Final.ps.gz}\n}\n\n"
   title: Incremental Feature Dependency Discovery
+  venue: Proceedings of the 23rd International Conference on Machine Learning (ICML)
+    [Acceptance 26\%]
   year: 2011
 AAAI11Tellex:
   authors:
@@ -31,7 +33,7 @@ AAAI11Tellex:
   - link: http://groups.csail.mit.edu/rrg/papers/tellex11.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/tellex11.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{AAAI11Tellex,\n  author =   {S. Tellex and T. Kollar\
     \ and S. Dickerson and M.  R. Walter and A. G. Banerjee and S. Teller and N. Roy},\n\
     \  title =    {Understanding Natural Language Commands for Robotic Navigation\
@@ -41,6 +43,7 @@ AAAI11Tellex:
     \ = {http://groups.csail.mit.edu/rrg/papers/tellex11.pdf}\n}\n\n"
   title: Understanding Natural Language Commands for Robotic Navigation and Mobile
     Manipulation
+  venue: Proceedings of the National Conference on Artificial Intelligence (AAAI)
   year: 2011
 AHuangISRR11:
   authors:
@@ -61,6 +64,7 @@ AHuangISRR11:
     \ Symposium of Robotics Research (ISRR)},\n  year =   {2011},\n  address =  {Flagstaff,\
     \ AZ},\n  url = {http://groups.csail.mit.edu/rrg/papers/isrr11-ah.pdf}\n}\n\n"
   title: Visual Odometry and Mapping for Autonomous Flight Using an RGB-D Camera
+  venue: Proceedings of the International Symposium of Robotics Research (ISRR)
   year: 2011
 Achtelik09SPIE:
   authors:
@@ -74,7 +78,7 @@ Achtelik09SPIE:
   - link: http://groups.csail.mit.edu/rrg/papers/spie09.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/spie09.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Achtelik09SPIE,\n  author =   {M. Achtelik and A. Bachrach\
     \ and R. He and S. Prentice and\n                  N. Roy},\n  title =    {Stereo\
     \ Vision and Laser Odometry for Autonomous\n                  Helicopters in GPS-denied\
@@ -85,6 +89,7 @@ Achtelik09SPIE:
   title: 'Stereo Vision and Laser Odometry for Autonomous
 
     Helicopters in GPS-denied Indoor Environments'
+  venue: Proceedings of the SPIE Unmanned Systems Technology XI
   year: 2009
 Aoude11AIAA:
   authors:
@@ -103,6 +108,7 @@ Aoude11AIAA:
     }\n\n\n"
   title: Mobile Agent Trajectory Prediction using Bayesian Nonparametric Reachability
     Trees
+  venue: Proceedings of AIAA Infotech at Aerospace
   year: 2011
 Arkin2018ISER:
   authors:
@@ -116,7 +122,7 @@ Arkin2018ISER:
   - link: https://www.cse.iitd.ac.in/~rohanpaul/content/Papers/2018ISER-interaction.pdf
     name: PDF
   - link: https://www.youtube.com/watch?v=JTVJkJavU6g&t=13s
-    name: video
+    name: Video
   raw_string: "@inproceedings{Arkin2018ISER,\n  author =   {J. Arkin and R. Paul and\
     \ D. Park and S. Roy and N. Roy and T. Howard},\n  title =    {Real-Time Human-Robot\
     \ Communication for Manipulation Tasks in Partially Observed Environments},\n\
@@ -125,6 +131,7 @@ Arkin2018ISER:
     \  video={https://www.youtube.com/watch?v=JTVJkJavU6g&t=13s}\n}\n\n"
   title: Real-Time Human-Robot Communication for Manipulation Tasks in Partially Observed
     Environments
+  venue: Proceedings of the International Symposium on Experimental Robotics (ISER)
   year: 2018
 Arkin2020IJRR:
   authors:
@@ -146,6 +153,7 @@ Arkin2020IJRR:
     }\n\n"
   title: Multimodal estimation and communication of latent semantic knowledge for
     robust execution of robot instructions
+  venue: International Journal of Robotics Research (IJRR)
   year: 2020
 Bachrach09IJMAV:
   authors:
@@ -154,7 +162,7 @@ Bachrach09IJMAV:
   - link: http://groups.csail.mit.edu/rrg/papers/ijmav09.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/ijmav09.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@Article{Bachrach09IJMAV,\n  author =   {A. Bachrach, R. He, N. Roy},\n\
     \  title =    {Autonomous Flight in Unknown Indoor Environments},\n  journal =\
     \    {International Journal of Micro Air Vehicles},\n  year =   {2009},\n  volume\
@@ -162,6 +170,7 @@ Bachrach09IJMAV:
     \  note = {http://groups.csail.mit.edu/rrg/papers/ijmav09.ps.gz},\n  url = {http://groups.csail.mit.edu/rrg/papers/ijmav09.pdf}\n\
     }\n\n"
   title: Autonomous Flight in Unknown Indoor Environments
+  venue: International Journal of Micro Air Vehicles
   year: 2009
 BachrachJFR11:
   authors:
@@ -173,14 +182,15 @@ BachrachJFR11:
   - link: http://groups.csail.mit.edu/rrg/papers/jfr-mav-11.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/jfr-mav-11.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@article{BachrachJFR11,\n   AUTHOR = {A. Bachrach and S. Prentice and\
     \ R. He and N. Roy},\n   TITLE  ={RANGE - Robust Autonomous Navigation in GPS-denied\
-    \ Environments},\n   JOURNAL = {Journal of Field Robotics},\n   YEAR = {2011},\n\
+    \ Environments},\n   journal = {Journal of Field Robotics},\n   YEAR = {2011},\n\
     \   VOLUME = {28},\n   NUMBER = {5},\n   PAGES = {644-666},\n   MONTH = {September},\n\
     \   NOTE = {http://groups.csail.mit.edu/rrg/papers/jfr-mav-11.ps.gz},\n   URL\
     \ = {http://groups.csail.mit.edu/rrg/papers/jfr-mav-11.pdf}\n   }\n\n"
   title: RANGE - Robust Autonomous Navigation in GPS-denied Environments
+  venue: Journal of Field Robotics
   year: 2011
 Banerjee11ACC:
   authors:
@@ -192,7 +202,7 @@ Banerjee11ACC:
   - link: http://groups.csail.mit.edu/rrg/papers/ashis_ACC11.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/ashis_ACC11.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Banerjee11ACC,\n  author =       {A. G. Banerjee and\
     \ M. Ono and N. Roy and B. C. Williams},\n  title =        {Regression-based {LP}\
     \ Solver for Chance-Constrained Finite Horizon Optimal Control with Nonconvex\
@@ -201,6 +211,7 @@ Banerjee11ACC:
     \  url = {http://groups.csail.mit.edu/rrg/papers/ashis_ACC11.pdf}\n}\n\n"
   title: Regression-based {LP} Solver for Chance-Constrained Finite Horizon Optimal
     Control with Nonconvex Constraints
+  venue: Proceedings of the American Control Conference
   year: 2011
 Banfi2022RAL:
   authors:
@@ -221,6 +232,7 @@ Banfi2022RAL:
     }\n\n"
   title: Hierarchical planning for heterogeneous multi-robot routing problems via
     learned subteam performance
+  venue: IEEE Robotics and Automation Letters
   year: 2022
 Bolduc97AAAI:
   authors:
@@ -235,7 +247,7 @@ Bolduc97AAAI:
   - link: http://groups.csail.mit.edu/rrg/papers/AAAI97a.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/AAAI97a.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Bolduc97AAAI,\n  author =   {Marc Bolduc and Eric Bourque\
     \ and Gregory Dudek and Nicholas\n      Roy and Robert Sim},\n  title =    {Autonomous\
     \ Exploration: An Integrated Systems Approach},\n  booktitle =  {Proceedings of\
@@ -243,6 +255,7 @@ Bolduc97AAAI:
     \  address =  {Providence, Rhode Island},\n  month =  {July},\n  note = {http://groups.csail.mit.edu/rrg/papers/AAAI97a.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/AAAI97a.pdf}\n}\n\n"
   title: 'Autonomous Exploration: An Integrated Systems Approach'
+  venue: Proceedings of the AAAI National Conference on Artificial Intelligence
   year: 1997
 Boussemart11JACIC:
   authors:
@@ -256,13 +269,14 @@ Boussemart11JACIC:
   raw_string: "@article{Boussemart11JACIC,\n   AUTHOR = {Y. Boussemart and M. L. Cummings\
     \ and J. Las Fargeas and N. Roy},\n   TITLE  ={Supervised vs. Unsupervised Learning\
     \ for Operator State Modeling\n                  in Unmanned Vehicle Settings},\n\
-    \   JOURNAL = {Journal of Aerospace Computing, Information, and Communication\
+    \   journal = {Journal of Aerospace Computing, Information, and Communication\
     \ (1542-9423)},\n   YEAR = {2011},\n   VOLUME = {8},\n   NUMBER = {3},\n   PAGES\
     \ = {71-85},\n   URL = {http://groups.csail.mit.edu/rrg/papers/AIAA-46767-263.pdf}\n\
     \   }\n\n"
   title: 'Supervised vs. Unsupervised Learning for Operator State Modeling
 
     in Unmanned Vehicle Settings'
+  venue: Journal of Aerospace Computing, Information, and Communication (1542-9423)
   year: 2011
 Brunskill05ICRA:
   authors:
@@ -272,7 +286,7 @@ Brunskill05ICRA:
   - link: http://groups.csail.mit.edu/rrg/papers/icra05-eb.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/icra05-eb.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Brunskill05ICRA,\n  author =   {Emma Brunskill and Nicholas\
     \ Roy},\n  title =    {SLAM using Incremental Probabilistic PCA and\n        \
     \          Dimensionality Reduction},\n  booktitle =  {Proceedings of the IEEE\
@@ -282,6 +296,9 @@ Brunskill05ICRA:
   title: 'SLAM using Incremental Probabilistic PCA and
 
     Dimensionality Reduction'
+  venue: 'Proceedings of the IEEE International Conference on Robotics
+
+    and Automation (ICRA)'
   year: 2005
 Brunskill07IROS:
   authors:
@@ -292,7 +309,7 @@ Brunskill07IROS:
   - link: http://groups.csail.mit.edu/rrg/papers/iros07-eb.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/iros07-eb.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Brunskill07IROS,\n  author =   {Emma Brunskill and Thomas\
     \ Kollar and Nicholas Roy},\n  title =    {Topological Mapping Using Spectral\
     \ Clustering and Classification},\n  booktitle =  {Proceedings of the IEEE/RSJ\
@@ -300,6 +317,9 @@ Brunskill07IROS:
     \ =   {2007},\n  address =  {San Diego},\n  month =  {October},\n  url = {http://groups.csail.mit.edu/rrg/papers/iros07-eb.pdf},\n\
     \  note = {http://groups.csail.mit.edu/rrg/papers/iros07-eb.ps.gz}\n}\n\n"
   title: Topological Mapping Using Spectral Clustering and Classification
+  venue: 'Proceedings of the IEEE/RSJ International Conference on
+
+    Intelligent Robots and Systems (IROS)'
   year: 2007
 Brunskill08ISAIM:
   authors:
@@ -313,7 +333,7 @@ Brunskill08ISAIM:
   - link: http://groups.csail.mit.edu/rrg/papers/isaim08-eb.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/isaim08-eb.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Brunskill08ISAIM,\n  author =   {Emma Brunskill and\
     \ Leslie Kaelbling and Tomas Lozano-Perez and Nicholas\nRoy},\n  title =    {Continuous-State\
     \ POMDPs with Hybrid Dynamics},\n  booktitle =    {Proceedings of the Tenth International\
@@ -322,6 +342,9 @@ Brunskill08ISAIM:
     \ {http://groups.csail.mit.edu/rrg/papers/isaim08-eb.pdf},\n  note = {http://groups.csail.mit.edu/rrg/papers/isaim08-eb.ps.gz}\n\
     }\n\n"
   title: Continuous-State POMDPs with Hybrid Dynamics
+  venue: 'Proceedings of the Tenth International Symposium on Artificial
+
+    Intelligence and Mathematics (ISAIM)'
   year: 2008
 Brunskill08UAI:
   authors:
@@ -335,7 +358,7 @@ Brunskill08UAI:
   - link: http://groups.csail.mit.edu/rrg/papers/uai08-eb.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/uai08-eb.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Brunskill08UAI,\n  author =   {Emma Brunskill and Bethany\
     \ R. Leffler and Lihong Li and Michael L. Littman and\nNicholas Roy},\n  title\
     \ =    {CORL: A Continuous-state Offset-dynamics Reinforcement Learner},\n  booktitle\
@@ -344,6 +367,9 @@ Brunskill08UAI:
     \ {http://groups.csail.mit.edu/rrg/papers/uai08-eb.pdf},\n  note = {http://groups.csail.mit.edu/rrg/papers/uai08-eb.ps.gz}\n\
     }\n\n"
   title: 'CORL: A Continuous-state Offset-dynamics Reinforcement Learner'
+  venue: 'Proceedings of the 24th Conference on Uncertainty in Artificial
+
+    Intelligence (UAI 2008)'
   year: 2008
 Brunskill09JMLR:
   authors:
@@ -356,7 +382,7 @@ Brunskill09JMLR:
   - link: http://www.jmlr.org/papers/volume10/brunskill09a/brunskill09a.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/brunskill09a.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@Article{Brunskill09JMLR,\n  author =   {E. Brunskill and B. Leffler\
     \ and L. Li and M. Littman and N. Roy},\n  title =    {Provably Efficient Learning\
     \ with Typed Parametric Models},\n  journal =    {Journal of Machine Learning\
@@ -365,6 +391,7 @@ Brunskill09JMLR:
     \  url = {http://www.jmlr.org/papers/volume10/brunskill09a/brunskill09a.pdf}\n\
     }\n\n"
   title: Provably Efficient Learning with Typed Parametric Models
+  venue: Journal of Machine Learning Research
   year: 2009
 Brunskill10AMAI:
   authors:
@@ -376,7 +403,7 @@ Brunskill10AMAI:
   - link: http://groups.csail.mit.edu/rrg/papers/amai10-eb.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/amai10-eb.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@article{Brunskill10AMAI,\n   author = {Emma Brunskill and Leslie Kaelbling\
     \ and Tom\\'as Lozano-P\\'erez and Nicholas Roy},\n   title = {Planning in partially-observable\
     \ switching-mode continuous domains},\n   journal = {Annals of Mathematics and\
@@ -384,6 +411,7 @@ Brunskill10AMAI:
     \ = {1-32},\n   year = {2010},\n   note = {http://groups.csail.mit.edu/rrg/papers/amai10-eb.ps.gz},\n\
     \   url = {http://groups.csail.mit.edu/rrg/papers/amai10-eb.pdf}\n}\n\n"
   title: Planning in partially-observable switching-mode continuous domains
+  venue: Annals of Mathematics and Artificial Intelligence
   year: 2010
 Bry11ICRA:
   authors:
@@ -393,7 +421,7 @@ Bry11ICRA:
   - link: http://groups.csail.mit.edu/rrg/papers/abry_icra11.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/abry_icra11.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Bry11ICRA,\n  author =       {A. Bry and N. Roy},\n\
     \  title =        {Rapidly-exploring Random Belief Trees for Motion Planning Under\
     \ Uncertainty},\n  booktitle =    {Proceedings of the IEEE International Conference\
@@ -401,6 +429,7 @@ Bry11ICRA:
     \ China},\n  note = {http://groups.csail.mit.edu/rrg/papers/abry_icra11.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/abry_icra11.pdf}\n}\n\n"
   title: Rapidly-exploring Random Belief Trees for Motion Planning Under Uncertainty
+  venue: Proceedings of the IEEE International Conference on Robotics and Automation
   year: 2011
 BryIJRR2015:
   authors:
@@ -418,6 +447,7 @@ BryIJRR2015:
     \  pages =  {969-1002},\n  month =  {June},\n  url = {http://groups.csail.mit.edu/rrg/papers/BryIJRR15.pdf}\n\
     }\n\n"
   title: Aggressive Flight of Fixed-Wing and Quadrotor Aircraft in Dense Indoor Environments
+  venue: International Journal of Robotics Research (IJRR)
   year: 2015
 Cummings12:
   authors:
@@ -434,6 +464,7 @@ Cummings12:
     \  pages =        {116-128},\n  url = {http://groups.csail.mit.edu/rrg/papers/PATH-AUG2011.pdf}\n\
     }\n\n"
   title: Human-Automated Path Planning Optimization and Decision Support
+  venue: International Journal of Human-Computer Studies
   year: 2012
 Deits2013JHRI:
   authors:
@@ -453,6 +484,7 @@ Deits2013JHRI:
     \ =   {2},\n  pages =  {58-79},\n  url = {https://people.csail.mit.edu/stefie10/publications/deits13.pdf}\n\
     }\n\n"
   title: Clarifying Commands with Information-Theoretic Human-Robot Dialog
+  venue: Journal of Human-Robot Interaction
   year: 2013
 Doherty2018IROS:
   authors:
@@ -471,6 +503,9 @@ Doherty2018IROS:
     }\n\n"
   title: Approximate Distributed Spatiotemporal Topic Models for Multi-Robot Terrain
     Characterization
+  venue: 'Proceedings of the IEEE/RSJ International Conference on
+
+    Intelligence Robots and Systems (IROS)'
   year: 2018
 Doshi-Velez2015PAMI:
   authors:
@@ -487,6 +522,7 @@ Doshi-Velez2015PAMI:
     \ = {https://scholar.harvard.edu/files/finale/files/doshi-velez-tpami-2013.pdf}\n\
     }\n\n"
   title: Bayesian Nonparametric Methods for Partially-Observable Reinforcement Learning
+  venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
   year: 2012
 Doshi07HRI:
   authors:
@@ -496,13 +532,14 @@ Doshi07HRI:
   - link: http://groups.csail.mit.edu/rrg/papers/hri07.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/hri07.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Doshi07HRI,\n  author =   {Finale Doshi and Nicholas\
     \ Roy},\n  title =    {Efficient Model Learning for Dialog Management},\n  booktitle\
     \ =  {Proceedings of Human-Robot Interaction (HRI 2007)},\n  year =   {2007},\n\
     \  address =  {Washington, DC},\n  month =  {March},\n  note = {http://groups.csail.mit.edu/rrg/papers/hri07.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/hri07.pdf}\n}\n\n"
   title: Efficient Model Learning for Dialog Management
+  venue: Proceedings of Human-Robot Interaction (HRI 2007)
   year: 2007
 Doshi07IROS:
   authors:
@@ -518,7 +555,7 @@ Doshi07IROS:
   - link: http://groups.csail.mit.edu/rrg/papers/iros07-fd.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/iros07-fd.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Doshi07IROS,\n  author =   {Finale Doshi and Emma Brunskill\
     \ and Alec Shkolnik and Thomas Kollar and\n  Khashayar Rohanimanesh and Russ Tedrake\
     \ and Nicholas Roy},\n  title =    {Collision Detection in Legged Locomotion using\
@@ -527,6 +564,9 @@ Doshi07IROS:
     \  address =  {San Diego},\n  month =  {October},\n  note = {http://groups.csail.mit.edu/rrg/papers/iros07-fd.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/iros07-fd.pdf}\n}\n\n"
   title: Collision Detection in Legged Locomotion using Supervised Learning
+  venue: 'Proceedings of the IEEE/RSJ International Conference on
+
+    Intelligent Robots and Systems (IROS)'
   year: 2007
 Doshi08AAMAS:
   authors:
@@ -536,7 +576,7 @@ Doshi08AAMAS:
   - link: http://groups.csail.mit.edu/rrg/papers/aamas08-fd.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/aamas08-fd.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Doshi08AAMAS,\n  author =   {Finale Doshi and Nicholas\
     \ Roy},\n  title =    {The Permutable POMDP: Fast Solutions to POMDPs for\nPreference\
     \ Elicitation},\n  booktitle =    {Proceedings of the Seventh International Conference\
@@ -546,6 +586,9 @@ Doshi08AAMAS:
   title: 'The Permutable POMDP: Fast Solutions to POMDPs for
 
     Preference Elicitation'
+  venue: 'Proceedings of the Seventh International Conference on
+
+    Autonomous Agents and Multiagent Systems (AAMAS 2008)'
   year: 2008
 Doshi08ConnSci:
   authors:
@@ -555,7 +598,7 @@ Doshi08ConnSci:
   - link: http://groups.csail.mit.edu/rrg/papers/connsci08.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/connsci08.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@Article{Doshi08ConnSci,\n  author =   {F. Doshi and N. Roy},\n  title\
     \ =    {Spoken Language Interaction with Model Uncertainty: An Adaptive Human-Robot\
     \ Interaction System},\n  journal =    {Connection Science},\n  year =   {2008},\n\
@@ -563,6 +606,7 @@ Doshi08ConnSci:
     \  url = {http://groups.csail.mit.edu/rrg/papers/connsci08.pdf}\n}\n\n"
   title: 'Spoken Language Interaction with Model Uncertainty: An Adaptive Human-Robot
     Interaction System'
+  venue: Connection Science
   year: 2008
 Doshi08ICML:
   authors:
@@ -573,7 +617,7 @@ Doshi08ICML:
   - link: http://groups.csail.mit.edu/rrg/papers/isaim08-fd.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/isaim08-fd.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Doshi08ICML,\n  author =   {Finale Doshi and Joelle\
     \ Pineau and Nicholas Roy},\n  title =    {Reinforcement Learning with Limited\
     \ Reinforcement: Using\nBayes Risk for Active Learning in POMDPs},\n  booktitle\
@@ -584,6 +628,9 @@ Doshi08ICML:
   title: 'Reinforcement Learning with Limited Reinforcement: Using
 
     Bayes Risk for Active Learning in POMDPs'
+  venue: 'Proceedings of the 25th International Conference on Machine
+
+    Learning (ICML 2008)'
   year: 2008
 Doshi08ISAIM:
   authors:
@@ -600,6 +647,9 @@ Doshi08ISAIM:
   title: 'Reinforcement Learning with Limited Reinforcement: Using
 
     Bayes Risk for Active Learning in POMDPs'
+  venue: 'Proceedings of the Tenth International Symposium on Artificial
+
+    Intelligence and Mathematics (ISAIM)'
   year: 2008
 Doshi10NIPS:
   authors:
@@ -611,7 +661,7 @@ Doshi10NIPS:
   - link: http://groups.csail.mit.edu/rrg/papers/fdoshi_nips2010.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/fdoshi_nips2010.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: '@InProceedings{Doshi10NIPS,
 
     author={F. Doshi and D. Wingate and J. Tenenbaum and N. Roy},
@@ -635,6 +685,7 @@ Doshi10NIPS:
 
     '
   title: Nonparametric Bayesian Policy Priors for Reinforcement Learning
+  venue: Neural Information Processing Systems (NIPS)
   year: 2010
 Doshi12AIJ:
   authors:
@@ -645,7 +696,7 @@ Doshi12AIJ:
   - link: http://groups.csail.mit.edu/rrg/papers/icml08-fd.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/icml08-fd.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@Article{Doshi12AIJ,\n  author =   {F. Doshi-Velez and J. Pineau and\
     \ N. Roy},\n  title =    {Reinforcement Learning with Limited Reinforcement: Using\n\
     \                  Bayes Risk for Active Learning in POMDPs},\n  journal =   \
@@ -655,6 +706,7 @@ Doshi12AIJ:
   title: 'Reinforcement Learning with Limited Reinforcement: Using
 
     Bayes Risk for Active Learning in POMDPs'
+  venue: Artificial Intelligence Journal
   year: 2012
 Dudek97AAAIw:
   authors:
@@ -664,7 +716,7 @@ Dudek97AAAIw:
   - link: http://groups.csail.mit.edu/rrg/papers/AAAI97.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/AAAI97.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Dudek97AAAIw,\n  author =   {Gregory Dudek and Nicholas\
     \ Roy},\n  title =    {Multi-Robot Rendezvous in Unknown Environments, or, What\
     \ to\n      do When You're Lost at the Zoo},\n  booktitle =  {Proceedings of the\
@@ -674,6 +726,9 @@ Dudek97AAAIw:
   title: 'Multi-Robot Rendezvous in Unknown Environments, or, What to
 
     do When You''re Lost at the Zoo'
+  venue: 'Proceedings of the AAAI National Conference Workshop on
+
+    Online Search'
   year: 1997
 Espinace10ICRA:
   authors:
@@ -685,7 +740,7 @@ Espinace10ICRA:
   - link: http://groups.csail.mit.edu/rrg/papers/icra10-pp.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/icra10-pp.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Espinace10ICRA,\n  author =   {P. Espinace and T. Kollar\
     \ and A. Soto and N. Roy},\n  title =    {Indoor Scene Recognition Through Object\
     \ Detection},\n  booktitle =    {Proceedings of the IEEE International Conference\
@@ -693,6 +748,8 @@ Espinace10ICRA:
     \ AK},\n  note = {http://groups.csail.mit.edu/rrg/papers/icra10-pp.ps.gz},\n \
     \ url = {http://groups.csail.mit.edu/rrg/papers/icra10-pp.pdf}\n}\n\n\n"
   title: Indoor Scene Recognition Through Object Detection
+  venue: Proceedings of the IEEE International Conference on Robotics and Automation
+    (ICRA)
   year: 2010
 Espinace2013RAS:
   authors:
@@ -710,6 +767,7 @@ Espinace2013RAS:
     \ =  {932-937},\n  month =  {September},\n  url = {http://groups.csail.mit.edu/rrg/papers/espinaceRAS13.pdf}\n\
     }\n\n"
   title: Indoor scene recognition by a mobile robot through adaptive object detection
+  venue: Robots and Autonomous Systems
   year: 2013
 Flaspohler2018ICRA:
   authors:
@@ -720,7 +778,7 @@ Flaspohler2018ICRA:
   - link: https://arxiv.org/abs/1711.10945
     name: PDF
   - link: https://www.youtube.com/watch?v=9gIfU5-CvE0
-    name: video
+    name: Video
   raw_string: "@InProceedings{Flaspohler2018ICRA,\n  author =   {G. E. Flaspohler\
     \ and N. Roy and Y. Girdhar},\n  title =    {Near-optimal irrevocable sample selection\
     \ for periodic data streams with applications to marine robotics},\n  booktitle\
@@ -729,6 +787,8 @@ Flaspohler2018ICRA:
     }\n\n"
   title: Near-optimal irrevocable sample selection for periodic data streams with
     applications to marine robotics
+  venue: Proceedings of the IEEE International Conference on Robotics and Automation
+    (ICRA)
   year: 2018
 Flaspohler2019RAL:
   authors:
@@ -750,6 +810,7 @@ Flaspohler2019RAL:
   title: 'Information-Guided Robotic Maximum Seek-and-Sample in Partially
 
     Observable Continuous Environments'
+  venue: Robotics and Automation Letters (RA-L)
   year: 2019
 Geramifard11ACC:
   authors:
@@ -761,7 +822,7 @@ Geramifard11ACC:
   - link: http://groups.csail.mit.edu/rrg/papers/ageramifard_ACC11.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/ageramifard_ACC11.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@inproceedings{Geramifard11ACC, \n        author = {A. Geramifard and\
     \ J. Redding and N. Roy and J. P. How},\n        title = {{UAV} Cooperative Control\
     \ with Stochastic Risk Models},\n        booktitle =    {Proceedings of the American\
@@ -770,6 +831,7 @@ Geramifard11ACC:
     \        url = {http://groups.csail.mit.edu/rrg/papers/ageramifard_ACC11.pdf}\n\
     }\n\n\n"
   title: '{UAV} Cooperative Control with Stochastic Risk Models'
+  venue: Proceedings of the American Control Conference (ACC)
   year: 2011
 Geramifard2013FTML:
   authors:
@@ -791,6 +853,7 @@ Geramifard2013FTML:
   title: 'A Tutorial on Linear Function Approximators for Dynamic Programming and
 
     Reinforcement Learning'
+  venue: Foundations and Trends in Machine Learning
   year: 2013
 Glover08RSS:
   authors:
@@ -801,7 +864,7 @@ Glover08RSS:
   - link: http://groups.csail.mit.edu/rrg/papers/rss08-jg.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/rss08-jg.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Glover08RSS,\n  author =   {Jared Glover and Daniela\
     \ Rus and Nicholas Roy},\n  title =    {Manipulation using Probabilistic Models\
     \ of Object Geometry},\n  booktitle =    {Proceedings of Robotics: Science and\
@@ -809,6 +872,7 @@ Glover08RSS:
     \  note = {http://groups.csail.mit.edu/rrg/papers/rss08-jg.ps.gz},\n  url = {http://groups.csail.mit.edu/rrg/papers/rss08-jg.pdf}\n\
     }\n\n"
   title: Manipulation using Probabilistic Models of Object Geometry
+  venue: 'Proceedings of Robotics: Science and Systems (RSS 2008)'
   year: 2008
 Glover09IJRR:
   authors:
@@ -819,7 +883,7 @@ Glover09IJRR:
   - link: http://groups.csail.mit.edu/rrg/papers/ijrr09-jg.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/ijrr09-jg.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@Article{Glover09IJRR,\n  author =   {J. Glover and D. Rus and N. Roy},\n\
     \  title =    {Probabilistic Models of Object Geometry with Application to Grasping},\n\
     \  journal =    {International Journal of Robotics Research},\n  year =   {2009},\n\
@@ -827,6 +891,7 @@ Glover09IJRR:
     \  note = {http://groups.csail.mit.edu/rrg/papers/ijrr09-jg.ps.gz},\n  url = {http://groups.csail.mit.edu/rrg/papers/ijrr09-jg.pdf}\n\
     }\n\n"
   title: Probabilistic Models of Object Geometry with Application to Grasping
+  venue: International Journal of Robotics Research
   year: 2009
 Guan2018ICRA:
   authors:
@@ -844,6 +909,9 @@ Guan2018ICRA:
     }\n\n"
   title: Efficient Planning for Near-optimal Compliant Manipulation Leveraging Environmental
     Contact
+  venue: 'Proceedings of the IEEE International Conference on Robotics and
+
+    Automation (ICRA)'
   year: 2018
 He08ICRA:
   authors:
@@ -854,7 +922,7 @@ He08ICRA:
   - link: http://groups.csail.mit.edu/rrg/papers/icra08-rh.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/icra08-rh.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{He08ICRA,\n  author =   {Ruijie He and Sam Prentice\
     \ and Nicholas Roy},\n  title =    {Planning in Information Space for a Quadrotor\
     \ Helicopter in\na GPS-denied Environments},\n  booktitle =    {Proceedings of\
@@ -865,6 +933,9 @@ He08ICRA:
   title: 'Planning in Information Space for a Quadrotor Helicopter in
 
     a GPS-denied Environments'
+  venue: 'Proceedings of the IEEE International Conference on Robotics
+
+    and Automation (ICRA 2008)'
   year: 2008
 He10AAAI:
   authors:
@@ -875,13 +946,14 @@ He10AAAI:
   - link: http://groups.csail.mit.edu/rrg/papers/aaai10-rh.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/aaai10-rh.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{He10AAAI,\n  author =   {R. He and E. Brunskill and\
     \ N. Roy},\n  title =    {PUMA: Planning under Uncertainty with Macro-Actions},\n\
     \  booktitle =    {Proceedings of the Twenty-Fourth Conference on Artificial Intelligence\
     \ (AAAI)},\n  year =   {2010},\n  address =  {Atlanta, GA},\n  note = {http://groups.csail.mit.edu/rrg/papers/aaai10-rh.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/aaai10-rh.pdf}\n}\n\n\n"
   title: 'PUMA: Planning under Uncertainty with Macro-Actions'
+  venue: Proceedings of the Twenty-Fourth Conference on Artificial Intelligence (AAAI)
   year: 2010
 He10ICRA:
   authors:
@@ -892,7 +964,7 @@ He10ICRA:
   - link: http://groups.csail.mit.edu/rrg/papers/icra10-rh.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/icra10-rh.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{He10ICRA,\n  author =   {R. He and A. Bachrach and N.\
     \ Roy},\n  title =    {Efficient Planning under Uncertainty for a Target-Tracking\
     \ Micro-Aerial Vehicle},\n  booktitle =    {Proceedings of the IEEE International\
@@ -900,6 +972,8 @@ He10ICRA:
     \ =  {Anchorage, AK},\n  note = {http://groups.csail.mit.edu/rrg/papers/icra10-rh.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/icra10-rh.pdf}\n}\n\n"
   title: Efficient Planning under Uncertainty for a Target-Tracking Micro-Aerial Vehicle
+  venue: Proceedings of the IEEE International Conference on Robotics and Automation
+    (ICRA)
   year: 2010
 He10IJRR:
   authors:
@@ -915,7 +989,7 @@ He10IJRR:
   - link: http://groups.csail.mit.edu/rrg/papers/ijrr10-mav.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/ijrr10-mav.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@Article{He10IJRR,\n  author =   {R. He and A. Bachrach and M. Achtelik\
     \ and A. Geramifard and D. Gurdan and  S. Prentice and J. Stumpf and N. Roy},\n\
     \  title =    {On the Design and Use of a Micro Air Vehicle to Track and Avoid\
@@ -924,6 +998,7 @@ He10IJRR:
     \  month =  {April},\n  note = {http://groups.csail.mit.edu/rrg/papers/ijrr10-mav.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/ijrr10-mav.pdf}\n}\n\n"
   title: On the Design and Use of a Micro Air Vehicle to Track and Avoid Adversaries
+  venue: International Journal of Robotics Research
   year: 2010
 He11JAIR:
   authors:
@@ -934,7 +1009,7 @@ He11JAIR:
   - link: http://groups.csail.mit.edu/rrg/papers/jair11-rjeb.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/jair11-rjeb.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@Article{He11JAIR,\n  author =   {R. He and E. Brunskill and N. Roy},\n\
     \  title =    {Efficient Planning under Uncertainty with Macro-actions},\n  journal\
     \ =    {Journal of Artificial Intelligence Research},\n  year =   {2011},\n  volume\
@@ -942,6 +1017,7 @@ He11JAIR:
     \ note = {http://groups.csail.mit.edu/rrg/papers/jair11-rjeb.ps.gz},\n  url =\
     \ {http://groups.csail.mit.edu/rrg/papers/jair11-rjeb.pdf}\n}\n\n"
   title: Efficient Planning under Uncertainty with Macro-actions
+  venue: Journal of Artificial Intelligence Research
   year: 2011
 Howard_ICRA14:
   authors:
@@ -956,8 +1032,10 @@ Howard_ICRA14:
     \ Mobile Manipulators},\n  booktitle = {Proceedings of the IEEE International\
     \ Conference on Robotics and Automation (ICRA 2014)},\n  year = {2014},\n  address\
     \ = {Hong Kong},\n  url={http://groups.csail.mit.edu/rrg/papers/Howard_ICRA14.pdf}\n\
-    }\n\n\n\n"
+    }\n\n"
   title: A Natural Language Planner Interface for Mobile Manipulators
+  venue: Proceedings of the IEEE International Conference on Robotics and Automation
+    (ICRA 2014)
   year: 2014
 Huang10IROS:
   authors:
@@ -978,6 +1056,7 @@ Huang10IROS:
     \    url = {http://groups.csail.mit.edu/rrg/papers/2010-directions-iros.pdf}\n\
     }\n\n\n"
   title: Natural Language Command of an Autonomous Micro-Air Vehicle
+  venue: '{International Conference on Intelligent Robots and Systems (IROS)}'
   year: 2010
 Huynh09ICRA:
   authors:
@@ -992,6 +1071,9 @@ Huynh09ICRA:
   title: 'icLQG: Combining Local and Global Optimization
 
     for Control in Information Space'
+  venue: 'Proceedings of the IEEE International
+
+    Conference on Robotics and Automation (ICRA)'
   year: 2009
 JAMDA2012:
   authors:
@@ -1025,6 +1107,7 @@ JAMDA2012:
   title: 'Improving Safety and Operational Efficiency in
 
     Residential Care Settings With WiFi-Based Localization'
+  venue: Journal of the American Medical Directors Association
   year: 2012
 Jason11AIAA:
   authors:
@@ -1044,6 +1127,7 @@ Jason11AIAA:
     }\n\n"
   title: Designing an Interactive Local and Global Decision Support System for Aircraft
     Carrier Deck Scheduling
+  venue: Proceedings of AIAA Infotech at Aerospace
   year: 2011
 Joseph10AAAI:
   authors:
@@ -1054,13 +1138,14 @@ Joseph10AAAI:
   - link: http://groups.csail.mit.edu/rrg/papers/aaai10-jj.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/aaai10-jj.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Joseph10AAAI,\n  author =   {J. Joseph and F. Doshi-Velez\
     \ and N. Roy},\n  title =    {A Bayesian Nonparametric Approach to Modeling Mobility},\n\
     \  booktitle =    {Proceedings of the Twenty-Fourth Conference on Artificial Intelligence\
     \ (AAAI)},\n  year =   {2010},\n  address =  {Atlanta, GA},\n  note = {http://groups.csail.mit.edu/rrg/papers/aaai10-jj.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/aaai10-jj.pdf}\n}\n\n\n"
   title: A Bayesian Nonparametric Approach to Modeling Mobility
+  venue: Proceedings of the Twenty-Fourth Conference on Artificial Intelligence (AAAI)
   year: 2010
 Joseph11AURO:
   authors:
@@ -1072,7 +1157,7 @@ Joseph11AURO:
   - link: http://groups.csail.mit.edu/rrg/papers/auro11-jj.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/auro11-jj.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@Article{Joseph11AURO,\n  author =   {J. Joseph and F. Doshi-Velez\
     \ and A. Huang and N. Roy},\n  title =    {A Bayesian Nonparametric Approach to\
     \ Modeling Motion Patterns},\n  journal =  {Autonomous Robots},\n  year =   {2011},\n\
@@ -1080,6 +1165,7 @@ Joseph11AURO:
     \  url = {http://groups.csail.mit.edu/rrg/papers/auro11-jj.pdf},\n  note = {http://groups.csail.mit.edu/rrg/papers/auro11-jj.ps.gz}\n\
     }\n\n"
   title: A Bayesian Nonparametric Approach to Modeling Motion Patterns
+  venue: Autonomous Robots
   year: 2011
 Jourdan05ICU:
   authors:
@@ -1092,7 +1178,7 @@ Jourdan05ICU:
   - link: http://groups.csail.mit.edu/rrg/papers/icu05-dj.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/icu05-dj.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Jourdan05ICU,\n  author =   {Damien B. Jourdan and John\
     \ J. Deyst Jr. and Moe Z. Win and\n                  Nicholas Roy},\n  title =\
     \    {Monte Carlo Localization in Dense Multipath Environments\n             \
@@ -1103,6 +1189,9 @@ Jourdan05ICU:
   title: 'Monte Carlo Localization in Dense Multipath Environments
 
     Using UWB Ranging'
+  venue: 'Proceedings of the IEEE International Conference on
+
+    Ultra-Wideband (ICU 2005)'
   year: 2005
 Jourdan06PLANS:
   authors:
@@ -1112,7 +1201,7 @@ Jourdan06PLANS:
   - link: http://groups.csail.mit.edu/rrg/papers/plans06-dj.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/plans06-dj.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Jourdan06PLANS,\n  author =   {Damien B. Jourdan and\
     \ Nicholas Roy},\n  title =    {Optimal Sensor Placement for Agent Localization},\n\
     \  booktitle =    {Proceedings of the IEEE/ION Position Location and Navigation\n\
@@ -1120,6 +1209,9 @@ Jourdan06PLANS:
     \ {San Diego, CA},\n  month =  {April},\n  note = {http://groups.csail.mit.edu/rrg/papers/plans06-dj.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/plans06-dj.pdf}\n}\n\n"
   title: Optimal Sensor Placement for Agent Localization
+  venue: 'Proceedings of the IEEE/ION Position Location and Navigation
+
+    Symposium (PLANS 2006)'
   year: 2006
 Jourdan08TOSN:
   authors:
@@ -1131,6 +1223,7 @@ Jourdan08TOSN:
     \ =    {ACM Transactions on Sensor Networks},\n  year =   {2008},\n  volume =\
     \   {4},\n  number =   {3},\n  month =  {August},\n}\n\n"
   title: Optimal Sensor Placement for Agent Localization
+  venue: ACM Transactions on Sensor Networks
   year: 2008
 Kelly2014TRO:
   authors:
@@ -1146,6 +1239,7 @@ Kelly2014TRO:
     \ =   {30},\n  number =   {6},\n  pages =  {1514-1523},\n  month =  {December},\n\
     \  url = {https://ieeexplore.ieee.org/abstract/document/6880764/}\n}\n\n"
   title: Determining the Time Delay Between Inertial and Visual Sensor Measurements
+  venue: IEEE Transactions on Robotics
   year: 2014
 Kim10ICRA:
   authors:
@@ -1161,7 +1255,7 @@ Kim10ICRA:
   - link: http://groups.csail.mit.edu/rrg/papers/icra10-bk.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/icra10-bk.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Kim10ICRA,\nauthor={B. Kim and M. Kaess and L. Fletcher\
     \ and J. Leonard and A. Bachrach\n                  and N. Roy and S. Teller},\n\
     booktitle={Proceedings of the IEEE International Conference\n                \
@@ -1172,6 +1266,9 @@ Kim10ICRA:
   title: 'Multiple relative pose graphs for robust
 
     cooperative mapping'
+  venue: 'Proceedings of the IEEE International Conference
+
+    on Robotics and Automation (ICRA)'
   year: 2010
 Knepper2015AR:
   authors:
@@ -1189,6 +1286,7 @@ Knepper2015AR:
     \ =   {39},\n  pages =  {347-362},\n  month =  {November},\n  url = {http://groups.csail.mit.edu/rrg/papers/KnepperAURO15.pdf}\n\
     }\n \n\n"
   title: Recovering from Failure by Asking for Help
+  venue: Autonomous Robots
   year: 2015
 Kollar06ICRA:
   authors:
@@ -1198,7 +1296,7 @@ Kollar06ICRA:
   - link: http://groups.csail.mit.edu/rrg/papers/icra06-tk.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/icra06-tk.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Kollar06ICRA,\n  author =   {Thomas Kollar and Nicholas\
     \ Roy},\n  title =    {Using Reinforcement Learning to Improve\n             \
     \     Exploration Trajectories for Error Minimization},\n  booktitle =    {Proceedings\
@@ -1209,6 +1307,9 @@ Kollar06ICRA:
   title: 'Using Reinforcement Learning to Improve
 
     Exploration Trajectories for Error Minimization'
+  venue: 'Proceedings of the IEEE International Conference on
+
+    Robotics and Automation (ICRA 2006)'
   year: 2006
 Kollar08AAAI:
   authors:
@@ -1218,7 +1319,7 @@ Kollar08AAAI:
   - link: http://groups.csail.mit.edu/rrg/papers/aaai08-tk.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/aaai08-tk.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Kollar08AAAI,\n  author =   {Thomas Kollar and Nicholas\
     \ Roy.},\n  title =    {Efficient optimization of information-theoretic\n    \
     \              exploration in SLAM},\n  booktitle =    {Proceedings of the National\
@@ -1228,6 +1329,9 @@ Kollar08AAAI:
   title: 'Efficient optimization of information-theoretic
 
     exploration in SLAM'
+  venue: 'Proceedings of the National Conference of Artificial
+
+    Intelligence (AAAI 08)'
   year: 2008
 Kollar08IJRR:
   authors:
@@ -1237,7 +1341,7 @@ Kollar08IJRR:
   - link: http://groups.csail.mit.edu/rrg/papers/ijrr08-tk.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/ijrr08-tk.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@Article{Kollar08IJRR,\n  author =   {Thomas Kollar and Nicholas Roy},\n\
     \  title =    {Trajectory Optimization using Reinforcement Learning for Map Exploration},\n\
     \  journal =    {International Journal of Robotics Research},\n  year =   {2008},\n\
@@ -1245,6 +1349,7 @@ Kollar08IJRR:
     \  note = {http://groups.csail.mit.edu/rrg/papers/ijrr08-tk.ps.gz},\n  url = {http://groups.csail.mit.edu/rrg/papers/ijrr08-tk.pdf}\n\
     }\n\n\n"
   title: Trajectory Optimization using Reinforcement Learning for Map Exploration
+  venue: International Journal of Robotics Research
   year: 2008
 Kollar09ICRA:
   authors:
@@ -1254,7 +1359,7 @@ Kollar09ICRA:
   - link: http://groups.csail.mit.edu/rrg/papers/icra09-tk.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/icra09-tk.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Kollar09ICRA,\n  author =   {Thomas Kollar and Nicholas\
     \ Roy},\n  title =    {Utilizing object-object and object-scene context when planning\
     \ to find things},\n  booktitle =    {Proceedings of the IEEE International\n\
@@ -1262,6 +1367,9 @@ Kollar09ICRA:
     \ =  {Kobe, Japan},\n  note = {http://groups.csail.mit.edu/rrg/papers/icra09-tk.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/icra09-tk.pdf}\n}\n\n"
   title: Utilizing object-object and object-scene context when planning to find things
+  venue: 'Proceedings of the IEEE International
+
+    Conference on Robotics and Automation (ICRA)'
   year: 2009
 Kollar10HRI:
   authors:
@@ -1273,7 +1381,7 @@ Kollar10HRI:
   - link: http://groups.csail.mit.edu/rrg/papers/hri10-tk.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/hri10-tk.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Kollar10HRI,\n  author =   {T. Kollar and S. Tellex\
     \ and D. Roy and N. Roy},\n  title =    {Toward Understanding Natural Language\
     \ Directions},\n  booktitle =    {Proceedings of the 5th ACM/IEEE International\
@@ -1281,6 +1389,7 @@ Kollar10HRI:
     \  address =  {Osaka, Japan},\n  url = {http://groups.csail.mit.edu/rrg/papers/hri10-tk.pdf},\n\
     \  note = {http://groups.csail.mit.edu/rrg/papers/hri10-tk.ps.gz}\n}\n\n"
   title: Toward Understanding Natural Language Directions
+  venue: Proceedings of the 5th ACM/IEEE International Conference on Human-Robot Interaction
   year: 2010
 Kollar10ISER:
   authors:
@@ -1292,7 +1401,7 @@ Kollar10ISER:
   - link: http://groups.csail.mit.edu/rrg/papers/tkollar_iser2010.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/tkollar_iser2010.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: '@inproceedings{Kollar10ISER,
 
     author={T. Kollar and S. Tellex and D. Roy and N. Roy},
@@ -1317,6 +1426,7 @@ Kollar10ISER:
 
     '
   title: Grounding Verbs of Motion in Natural Language Commands to Robots
+  venue: Proceedings of the International Symposium on Experimental Robotics (ISER)
   year: 2010
 Langelaan09Science:
   authors:
@@ -1331,6 +1441,7 @@ Langelaan09Science:
     \  month =  {December},\n  url = {http://www.sciencemag.org/cgi/content/summary/326/5960/1642}\n\
     }\n\n"
   title: Enabling New Missions for Robotic Aircraft
+  venue: Science
   year: 2009
 Liu2018ICRA:
   authors:
@@ -1342,7 +1453,7 @@ Liu2018ICRA:
   - link: https://ieeexplore.ieee.org/abstract/document/8461047
     name: PDF
   - link: https://www.youtube.com/watch?v=GyapQn5Rhz0
-    name: video
+    name: Video
   raw_string: "@InProceedings{Liu2018ICRA,\n  author =   {K. Liu* and K. Ok* and W.\
     \ Vega-Brown and N. Roy},\n  title =    {Deep Inference for Covariance Estimation:\
     \ Learning Gaussian Noise Models for State Estimation},\n  booktitle =    {Proceedings\
@@ -1351,6 +1462,8 @@ Liu2018ICRA:
     \  video={https://www.youtube.com/watch?v=GyapQn5Rhz0}\n}\n\n\n"
   title: 'Deep Inference for Covariance Estimation: Learning Gaussian Noise Models
     for State Estimation'
+  venue: Proceedings of the IEEE International Conference on Robotics and Automation
+    (ICRA)
   year: 2018
 Matthews02A:
   authors:
@@ -1381,6 +1494,9 @@ Matthews02A:
     during development of a personal robotic assistant for older
 
     adults'
+  venue: 'Proceedings of the Greater Pittsburgh 14th Annual Nursing
+
+    Research Conference'
   year: 2002
 Matthews02B:
   authors:
@@ -1401,6 +1517,9 @@ Matthews02B:
     \ of the Annual Conference of the American Medical\n                  Informatics\
     \ Association},\n  year =   {2002},\n  address =  {San Antonio, TX},\n}\n\n"
   title: Robotic assistance during ambulation by older adults
+  venue: 'Proceedings of the Annual Conference of the American Medical
+
+    Informatics Association'
   year: 2002
 McGrew10JGCD:
   authors:
@@ -1413,7 +1532,7 @@ McGrew10JGCD:
   - link: http://groups.csail.mit.edu/rrg/papers/jgcd10-jm.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/jgcd10-jm.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@Article{McGrew10JGCD,\n  author =   {J. McGrew and J. How and L. Bush\
     \ and B. Williams and N. Roy},\n  title =    {Air Combat Strategy Using Approximate\
     \ Dynamic Programming},\n  journal =    {Journal of Guidance, Control and Dynamics},\n\
@@ -1421,6 +1540,7 @@ McGrew10JGCD:
     \  month =  {Sept-Oct},\n  note = {http://groups.csail.mit.edu/rrg/papers/jgcd10-jm.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/jgcd10-jm.pdf}\n}\n\n\n"
   title: Air Combat Strategy Using Approximate Dynamic Programming
+  venue: Journal of Guidance, Control and Dynamics
   year: 2010
 Missiuro06ICRA:
   authors:
@@ -1430,7 +1550,7 @@ Missiuro06ICRA:
   - link: http://groups.csail.mit.edu/rrg/papers/icra06-pm.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/icra06-pm.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Missiuro06ICRA,\n  author =   {Patrycja Missiuro and\
     \ Nicholas Roy},\n  title =    {Adapting Probabilistic Roadmaps to Handle Uncertain\
     \ Maps},\n  booktitle =    {Proceedings of the IEEE International Conference on\n\
@@ -1439,6 +1559,9 @@ Missiuro06ICRA:
     \ {http://groups.csail.mit.edu/rrg/papers/icra06-pm.ps.gz},\n  url = {http://groups.csail.mit.edu/rrg/papers/icra06-pm.pdf}\n\
     }\n\n"
   title: Adapting Probabilistic Roadmaps to Handle Uncertain Maps
+  venue: 'Proceedings of the IEEE International Conference on
+
+    Robotics and Automation (ICRA 2006)'
   year: 2006
 Montemerlo02AAAI:
   authors:
@@ -1452,7 +1575,7 @@ Montemerlo02AAAI:
   - link: http://groups.csail.mit.edu/rrg/papers/AAAI02.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/AAAI02.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Montemerlo02AAAI,\n  author =   {Michael Montemerlo\
     \ and Joelle Pineau and Nicholas Roy and\n                  Sebastian Thrun and\
     \ Vandana Verma},\n  title =    {Experiences with a Mobile Robotic Guide for the\
@@ -1461,6 +1584,9 @@ Montemerlo02AAAI:
     \ {Edmonton,AB},\n  month =  {July},\n  pages =  {587-592},\n  note = {http://groups.csail.mit.edu/rrg/papers/AAAI02.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/AAAI02.pdf}\n}\n\n"
   title: Experiences with a Mobile Robotic Guide for the Elderly
+  venue: 'Proceedings of the National Conference of Artificial
+
+    Intelligence (AAAI 02)'
   year: 2002
 Paul2018IJRR:
   authors:
@@ -1480,6 +1606,7 @@ Paul2018IJRR:
     }\n\n\n\n"
   title: Efficient Grounding Abstract Spatial Concepts for Natural Language Interaction
     with Robot Platforms
+  venue: International Journal of Robotics Research (IJRR)
   year: 2018
 Pineau03RAS:
   authors:
@@ -1493,7 +1620,7 @@ Pineau03RAS:
   - link: http://groups.csail.mit.edu/rrg/papers/jpineau-ras03.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/jpineau-ras03.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@Article{Pineau03RAS,\n  author =   {Joelle Pineau and Michael Montemerlo\
     \ and Martha Pollack and\n                  Nicholas Roy and Sebastian Thrun},\n\
     \  title =    {Towards robotic assistants in nursing homes: Challenges and results},\n\
@@ -1502,6 +1629,7 @@ Pineau03RAS:
     \ note = {http://groups.csail.mit.edu/rrg/papers/jpineau-ras03.ps.gz},\n  url\
     \ = {http://groups.csail.mit.edu/rrg/papers/jpineau-ras03.pdf}\n}\n\n"
   title: 'Towards robotic assistants in nursing homes: Challenges and results'
+  venue: Robotics and Autonomous Systems
   year: 2003
 PineauRASW02:
   authors:
@@ -1522,6 +1650,9 @@ PineauRASW02:
   title: 'Probabilistic control of human robot interaction:
 
     Experiments with a robotic assistant for nursing home'
+  venue: 'Proceedings of the IARP-IEEE/RAS Workshop on Robot
+
+    Dependability'
   year: 2002
 Plagemann09JFR:
   authors:
@@ -1535,7 +1666,7 @@ Plagemann09JFR:
   - link: http://groups.csail.mit.edu/rrg/papers/jfr09-cp.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/jfr09-cp.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@Article{Plagemann09JFR,\n  author =   {C. Plagemann and S. Mischke\
     \ and S. Prentice and K. Kersting and N. Roy and W. Burgard},\n  title =    {A\
     \ Bayesian Regression approach to Terrain Mapping and an Application to Legged\
@@ -1545,6 +1676,7 @@ Plagemann09JFR:
     \  url = {http://groups.csail.mit.edu/rrg/papers/jfr09-cp.pdf}\n}\n\n"
   title: A Bayesian Regression approach to Terrain Mapping and an Application to Legged
     Robot Locomotion
+  venue: Journal of Field Robotics
   year: 2009
 Pollack02:
   authors:
@@ -1574,6 +1706,7 @@ Pollack02:
     \  booktitle =    {AAAI Workshop 2002 notes},\n  year =   {2002},\n  address =\
     \  {Edmonton, AB},\n}\n\n"
   title: 'Pearl: A mobile robotic assistant to the elderly'
+  venue: AAAI Workshop 2002 notes
   year: 2002
 Prentice07ISRR:
   authors:
@@ -1583,7 +1716,7 @@ Prentice07ISRR:
   - link: http://groups.csail.mit.edu/rrg/papers/isrr07.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/isrr07.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Prentice07ISRR,\n  author =   {Sam Prentice and Nicholas\
     \ Roy},\n  title =    {The Belief Roadmap: Efficient Planning in Linear POMDPs\
     \ by\n  Factoring the Covariance},\n  booktitle =  {Proceedings of the 13th International\
@@ -1593,6 +1726,9 @@ Prentice07ISRR:
   title: 'The Belief Roadmap: Efficient Planning in Linear POMDPs by
 
     Factoring the Covariance'
+  venue: 'Proceedings of the 13th International Symposium of Robotics
+
+    Research (ISRR)'
   year: 2007
 Prentice09IJRR:
   authors:
@@ -1602,7 +1738,7 @@ Prentice09IJRR:
   - link: http://groups.csail.mit.edu/rrg/papers/ijrr09-brm.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/ijrr09-brm.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@Article{Prentice09IJRR,\n  author =   {S. Prentice and N. Roy},\n\
     \  title =    {The Belief Roadmap: Efficient Planning in Belief Space by Factoring\
     \ the Covariance},\n  journal =    {International Journal of Robotics Research},\n\
@@ -1611,6 +1747,7 @@ Prentice09IJRR:
     \  url = {http://groups.csail.mit.edu/rrg/papers/ijrr09-brm.pdf}\n}\n\n"
   title: 'The Belief Roadmap: Efficient Planning in Belief Space by Factoring the
     Covariance'
+  venue: International Journal of Robotics Research
   year: 2009
 Reimer10TRF:
   authors:
@@ -1627,6 +1764,7 @@ Reimer10TRF:
     \ Psychology and Behaviour},\n  year =   {2011},\n}\n\n"
   title: The impact of a naturalistic hands-free cellular phone task on heart rate
     and simulated driving performance in two age groups
+  venue: 'Transportation Research Part F: Traffic Psychology and Behaviour'
   year: 2011
 Reimer11TRF:
   authors:
@@ -1639,7 +1777,7 @@ Reimer11TRF:
   - link: http://groups.csail.mit.edu/rrg/papers/trf10-br.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/trf10-br.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@article{Reimer11TRF,\n  author =   {B. Reimer and B. Mehler and J.\
     \ Coughlin and N. Roy and J. Dusek},\n  title =    {The impact of a naturalistic\
     \ hands-free cellular phone task\n                  on heart rate and simulated\
@@ -1653,6 +1791,9 @@ Reimer11TRF:
     on heart rate and simulated driving performance in
 
     two age groups'
+  venue: 'Transportation Research Part F: Traffic Psychology and
+
+    Behaviour'
   year: 2011
 Richter_ICRA14:
   authors:
@@ -1670,6 +1811,8 @@ Richter_ICRA14:
     }\n\n"
   title: High-Speed Autonomous Navigation of Unknown Environments using Learned Probabilities
     of Collision
+  venue: Proceedings of the IEEE International Conference on Robotics and Automation
+    (ICRA 2014)
   year: 2014
 Richter_ISRR13:
   authors:
@@ -1687,6 +1830,7 @@ Richter_ISRR13:
     }\n\n"
   title: Polynomial Trajectory Planning for Aggressive Quadrotor Flight in Dense Indoor
     Environments
+  venue: Proceedings of the International Symposium of Robotics Research (ISRR 2013)
   year: 2013
 Roy00ACL:
   authors:
@@ -1697,13 +1841,14 @@ Roy00ACL:
   - link: http://groups.csail.mit.edu/rrg/papers/acl00.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/acl00.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Roy00ACL,\n  author =       {Nicholas Roy and Joelle\
     \ Pineau and Sebastian Thrun},\n  title =        {Spoken Dialog Management for\
     \ Robots},\n  booktitle =    {The Proceedings of the Association for Computational\
     \ Linguistics},\n  year =         {2000},\n  note = {http://groups.csail.mit.edu/rrg/papers/acl00.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/acl00.pdf}\n}\n\n"
   title: Spoken Dialog Management for Robots
+  venue: The Proceedings of the Association for Computational Linguistics
   year: 2000
 Roy00AR:
   authors:
@@ -1713,7 +1858,7 @@ Roy00AR:
   - link: http://groups.csail.mit.edu/rrg/papers/ARJournal.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/ARJournal.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@Article{Roy00AR,\n  author =   {Nicholas Roy and Gregory Dudek},\n\
     \  title =    {Collaborative Exploration and Rendezvous: Algorithms,\n      Performance\
     \ Bounds and Observations},\n  journal =  {Autonomous Robots},\n  year =   {2001},\n\
@@ -1723,6 +1868,7 @@ Roy00AR:
   title: 'Collaborative Exploration and Rendezvous: Algorithms,
 
     Performance Bounds and Observations'
+  venue: Autonomous Robots
   year: 2001
 Roy00Proposal:
   authors:
@@ -1730,9 +1876,10 @@ Roy00Proposal:
   links: []
   raw_string: "@article{Roy00Proposal,\n  author =   {Nicholas Roy},\n  title =  \
     \  {Finding Approximate POMDP solutions Through Belief State Compression},\n \
-    \ institution =  {Carnegie Mellon University},\n  year =   {2000},\n  number =\
-    \ {1}\n}\n"
+    \ booktitle = {Proposal},\n  institution =  {Carnegie Mellon University},\n  year\
+    \ =   {2000},\n  number = {1}\n}\n"
   title: Finding Approximate POMDP solutions Through Belief State Compression
+  venue: Proposal
   year: 2000
 Roy00WIRE:
   authors:
@@ -1756,7 +1903,7 @@ Roy00WIRE:
   - link: http://groups.csail.mit.edu/rrg/papers/wire2000.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/wire2000.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Roy00WIRE,\n  author =   {Nicholas Roy and Gregory Baltus\
     \ and Dieter Fox and Francine\n      Gemperle and Jennifer Goetz and Tad Hirsch\
     \ and Dimitris\n      Margaritis and Michael Montemerlo and Joelle Pineau and\n\
@@ -1766,6 +1913,9 @@ Roy00WIRE:
     \  address =  {Pittsburgh, PA},\n  month =  {May},\n  note = {http://groups.csail.mit.edu/rrg/papers/wire2000.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/wire2000.pdf}\n}\n\n"
   title: Towards Personal Service Robots for the Elderly
+  venue: 'Proceedings of the Workshop on Interactive Robots and
+
+    Entertainment (WIRE 2000)'
   year: 2000
 Roy01ICML:
   authors:
@@ -1775,7 +1925,7 @@ Roy01ICML:
   - link: http://groups.csail.mit.edu/rrg/papers/icml01.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/icml01.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Roy01ICML,\n  author =   {Nicholas Roy and Andrew McCallum},\n\
     \  title =    {Toward Optimal Active Learning through {M}onte {C}arlo Estimation\
     \ of Error Reduction},\n  booktitle =  {Proceedings of the International Conference\
@@ -1784,6 +1934,7 @@ Roy01ICML:
     \ = {http://groups.csail.mit.edu/rrg/papers/icml01.pdf}\n}\n\n"
   title: Toward Optimal Active Learning through {M}onte {C}arlo Estimation of Error
     Reduction
+  venue: Proceedings of the International Conference on Machine Learning (ICML 2001)
   year: 2001
 Roy02IROS:
   authors:
@@ -1793,7 +1944,7 @@ Roy02IROS:
   - link: http://groups.csail.mit.edu/rrg/papers/iros02.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/iros02.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Roy02IROS,\n  author =   {Nicholas Roy and Sebastian\
     \ Thrun},\n  title =    {Motion Planning through Policy Search},\n  booktitle\
     \ =    {Proceedings of the IEEE/RSJ International Conference on\n  Intelligent\
@@ -1802,6 +1953,9 @@ Roy02IROS:
     \ = {http://groups.csail.mit.edu/rrg/papers/iros02.ps.gz},\n  url = {http://groups.csail.mit.edu/rrg/papers/iros02.pdf}\n\
     }\n\n"
   title: Motion Planning through Policy Search
+  venue: 'Proceedings of the IEEE/RSJ International Conference on
+
+    Intelligent Robots and Systems (IROS 2002)'
   year: 2002
 Roy02NIPS:
   authors:
@@ -1811,7 +1965,7 @@ Roy02NIPS:
   - link: http://groups.csail.mit.edu/rrg/papers/nips02.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/nips02.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Roy02NIPS,\n  author =   {Nicholas Roy and Geoffrey\
     \ Gordon},\n  title =    {Exponential Family {PCA} for Belief Compression in {POMDP}s},\n\
     \  booktitle =    {Advances in Neural Information Processing 15 (NIPS)},\n  year\
@@ -1820,6 +1974,7 @@ Roy02NIPS:
     \  month =  {December},\n  url = {http://groups.csail.mit.edu/rrg/papers/nips02.pdf},\n\
     \  note = {http://groups.csail.mit.edu/rrg/papers/nips02.ps.gz}\n}\n\n"
   title: Exponential Family {PCA} for Belief Compression in {POMDP}s
+  venue: Advances in Neural Information Processing 15 (NIPS)
   year: 2002
 Roy03FSR:
   authors:
@@ -1830,7 +1985,7 @@ Roy03FSR:
   - link: http://groups.csail.mit.edu/rrg/papers/fsr03.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/fsr03.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Roy03FSR,\n  author =   {Nicholas Roy and Geoffrey Gordon\
     \ and Sebastian Thrun},\n  title =    {Planning under Uncertainty for Reliable\
     \ Health Care Robotics},\n  booktitle =    {Proceedings of the International Conference\
@@ -1838,6 +1993,9 @@ Roy03FSR:
     \  address =  {Lake Yamanaka, Japan},\n  month =  {July},\n  note = {http://groups.csail.mit.edu/rrg/papers/fsr03.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/fsr03.pdf}\n}\n\n"
   title: Planning under Uncertainty for Reliable Health Care Robotics
+  venue: 'Proceedings of the International Conference on Field and
+
+    Service Robotics (FSR 2003)'
   year: 2003
 Roy03IROS:
   authors:
@@ -1848,7 +2006,7 @@ Roy03IROS:
   - link: http://groups.csail.mit.edu/rrg/papers/iros03.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/iros03.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Roy03IROS,\n  author =   {Michael Montemerlo and Nicholas\
     \ Roy and Sebastian Thrun},\n  title =    {Perspectives on Standardization in\
     \ Mobile Robot Programming: The Carnegie Mellon Navigation (CARMEN) Toolkit},\n\
@@ -1859,6 +2017,9 @@ Roy03IROS:
     \  note = {http://groups.csail.mit.edu/rrg/papers/iros03.ps.gz}\n}\n\n"
   title: 'Perspectives on Standardization in Mobile Robot Programming: The Carnegie
     Mellon Navigation (CARMEN) Toolkit'
+  venue: 'Proceedings of the IEEE/RSJ International Conference on
+
+    Intelligent Robots and Systems (IROS 2003)'
   year: 2003
 Roy05JAIR:
   authors:
@@ -1869,7 +2030,7 @@ Roy05JAIR:
   - link: http://groups.csail.mit.edu/rrg/papers/jair05.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/jair05.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@Article{Roy05JAIR,\n  author =   {Nicholas Roy and Geoffrey Gordon\
     \ and Sebastian Thrun},\n  title =    {Finding Approximate POMDP solutions Through\n\
     \                  Belief Compression},\n  journal =    {Journal of Artificial\
@@ -1879,6 +2040,7 @@ Roy05JAIR:
   title: 'Finding Approximate POMDP solutions Through
 
     Belief Compression'
+  venue: Journal of Artificial Intelligence Research
   year: 2005
 Roy06ACC:
   authors:
@@ -1888,7 +2050,7 @@ Roy06ACC:
   - link: http://groups.csail.mit.edu/rrg/papers/acc06.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/acc06.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Roy06ACC,\n  author =   {Nicholas Roy and Caleb Earnest},\n\
     \  title =    {Dynamic Action Spaces for Information Gain Maximization\n     \
     \             in Search and Exploration},\n  booktitle =  {Proceedings of the\
@@ -1898,6 +2060,7 @@ Roy06ACC:
   title: 'Dynamic Action Spaces for Information Gain Maximization
 
     in Search and Exploration'
+  venue: Proceedings of the American Control Conference (ACC 2006)
   year: 2006
 Roy07CDIO:
   authors:
@@ -1911,7 +2074,7 @@ Roy07CDIO:
   - link: http://groups.csail.mit.edu/rrg/papers/cdio07.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/cdio07.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Roy07CDIO,\n  author =   {Nicholas Roy and John Leonard\
     \ and Una-May O'Reilly and Daniela Rus\n  and Seth Teller},\n  title =    {The\
     \ Experience of Teaching Software Development in a\n  Robotics Project Course},\n\
@@ -1922,6 +2085,9 @@ Roy07CDIO:
   title: 'The Experience of Teaching Software Development in a
 
     Robotics Project Course'
+  venue: 'Proceedings of the Third International CDIO Conference and
+
+    Collaborators'' Meeting'
   year: 2007
 Roy96AAAI:
   authors:
@@ -1932,7 +2098,7 @@ Roy96AAAI:
   - link: http://groups.csail.mit.edu/rrg/papers/AAAI96.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/AAAI96.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Roy96AAAI,\n  author =   {Nicholas Roy and Gregory Dudek\
     \ and Michael Daum},\n  title =    {Mobile Robot Navigation and Control: A Case\
     \ Study},\n  booktitle =  {Proceedings of the AAAI National Conference on Artificial\
@@ -1940,6 +2106,7 @@ Roy96AAAI:
     \ =  {July},\n  note = {http://groups.csail.mit.edu/rrg/papers/AAAI96.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/AAAI96.pdf}\n}\n\n"
   title: 'Mobile Robot Navigation and Control: A Case Study'
+  venue: Proceedings of the AAAI National Conference on Artificial Intelligence
   year: 1996
 Roy96ICRA:
   authors:
@@ -1950,27 +2117,28 @@ Roy96ICRA:
   - link: http://groups.csail.mit.edu/rrg/papers/ICRA96.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/ICRA96.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Roy96ICRA,\n  author =   {Nicholas Roy and Gregory Dudek\
     \ and Paul Freedman},\n  title =    {Surface Sensing and Classification for Efficient\
-    \ Mobile Robot Navigation},\n  OPTpages =   {},\n  booktitle =  {Proc. of the\
-    \ IEEE International Conference on Robotics\n      and Automation (ICRA)},\n \
-    \ year =   {1996},\n  address =  {Minneapolis, MN},\n  month =  {May},\n  note\
-    \ = {http://groups.csail.mit.edu/rrg/papers/ICRA96.ps.gz},\n  url = {http://groups.csail.mit.edu/rrg/papers/ICRA96.pdf}\n\
-    }\n\n"
+    \ Mobile Robot Navigation},\n  booktitle =  {Proc. of the IEEE International Conference\
+    \ on Robotics\n      and Automation (ICRA)},\n  year =   {1996},\n  address =\
+    \  {Minneapolis, MN},\n  month =  {May},\n  note = {http://groups.csail.mit.edu/rrg/papers/ICRA96.ps.gz},\n\
+    \  url = {http://groups.csail.mit.edu/rrg/papers/ICRA96.pdf}\n}\n\n"
   title: Surface Sensing and Classification for Efficient Mobile Robot Navigation
+  venue: 'Proc. of the IEEE International Conference on Robotics
+
+    and Automation (ICRA)'
   year: 1996
 Roy96IRIS:
   authors:
   - Nicholas Roy
   - Gregory Dudek
-  links:
-  - link: IRIS/PRECARN Conference, Montreal
-    name: compressed postscript
+  links: []
   raw_string: "@Misc{Roy96IRIS,\n  author =   {Nicholas Roy and Gregory Dudek},\n\
     \  title =  {Multi-agent Rendez-vous},\n  year =   {1996},\n  month =  {June},\n\
-    \  note =   {IRIS/PRECARN Conference, Montreal},\n}\n\n"
+    \  booktitle =   {IRIS/PRECARN Conference, Montreal},\n}\n\n"
   title: Multi-agent Rendez-vous
+  venue: IRIS/PRECARN Conference, Montreal
   year: 1996
 Roy97EWLR:
   authors:
@@ -1980,22 +2148,24 @@ Roy97EWLR:
   - link: http://groups.csail.mit.edu/rrg/papers/EWLR-6.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/EWLR-6.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Roy97EWLR,\n  author =   {Nicholas Roy and Gregory Dudek},\n\
     \  title =    {Learning to Rendezvous during Multi-agent Exploration},\n  booktitle\
     \ =  {Proceedings of the European Workshop on Learning Robots (EWLR 6)},\n  year\
     \ =   {1997},\n  address =  {Brighton, UK},\n  month =  {August},\n  note = {http://groups.csail.mit.edu/rrg/papers/EWLR-6.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/EWLR-6.pdf}\n}\n\n"
   title: Learning to Rendezvous during Multi-agent Exploration
+  venue: Proceedings of the European Workshop on Learning Robots (EWLR 6)
   year: 1997
 Roy97MSC:
   authors:
   - Nicholas Roy
   links: []
   raw_string: "@article{Roy97MSC,\n  author =    {Nicholas Roy},\n  title =    {Multi-Agent\
-    \ Exploration and Rendezvous},\n  school =   {McGill University},\n  year =  \
-    \ {1997},\n  address =  {Montreal, PQ},\n  month =  {July},\n}\n\n"
+    \ Exploration and Rendezvous},\n  journal =   {McGill University},\n  year = \
+    \  {1997},\n  address =  {Montreal, PQ},\n  month =  {July},\n}\n\n"
   title: Multi-Agent Exploration and Rendezvous
+  venue: McGill University
   year: 1997
 Roy98AAAIf:
   authors:
@@ -2008,7 +2178,7 @@ Roy98AAAIf:
   - link: http://groups.csail.mit.edu/rrg/papers/aaaif98.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/aaaif98.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Roy98AAAIf,\n  author =   {Nicholas Roy and Wolfram\
     \ Burgard and Dieter Fox and\n      Sebastian Thrun},\n  title =    {Coastal Navigation\
     \ -- Robot Motion with Uncertainty},\n  booktitle =  {Proceedings of the AAAI\
@@ -2016,6 +2186,7 @@ Roy98AAAIf:
     \ Florida},\n  month =  {October},\n  note = {http://groups.csail.mit.edu/rrg/papers/aaaif98.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/aaaif98.pdf}\n}\n\n"
   title: Coastal Navigation -- Robot Motion with Uncertainty
+  venue: 'Proceedings of the AAAI Fall Symposium: Planning with POMDPs'
   year: 1998
 Roy99ICRAa:
   authors:
@@ -2028,7 +2199,7 @@ Roy99ICRAa:
   - link: http://groups.csail.mit.edu/rrg/papers/icra99.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/icra99.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Roy99ICRAa,\n  author =       {Nicholas Roy and Wolfram\
     \ Burgard and Dieter Fox and\n                  Sebastian Thrun},\n  title = \
     \       {Coastal Navigation -- Mobile Robot Navigation with\n                \
@@ -2040,6 +2211,9 @@ Roy99ICRAa:
   title: 'Coastal Navigation -- Mobile Robot Navigation with
 
     Uncertainty in Dynamic Environments'
+  venue: 'Proc. of the IEEE International Conference on Robotics
+
+    and Automation (ICRA)'
   year: 1999
 Roy99ICRAb:
   authors:
@@ -2049,7 +2223,7 @@ Roy99ICRAb:
   - link: http://groups.csail.mit.edu/rrg/papers/icra99a.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/icra99a.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Roy99ICRAb,\n  author =   {Nicholas Roy and Sebastian\
     \ Thrun},\n  title =    {Online Self-Calibration for Mobile Robots},\n  booktitle\
     \ =  {Proc. of the IEEE/RSJ International Conference on Robotics\n      and Automation\
@@ -2057,6 +2231,9 @@ Roy99ICRAb:
     \  note = {http://groups.csail.mit.edu/rrg/papers/icra99a.ps.gz},\n  url = {http://groups.csail.mit.edu/rrg/papers/icra99a.pdf}\n\
     }\n\n"
   title: Online Self-Calibration for Mobile Robots
+  venue: 'Proc. of the IEEE/RSJ International Conference on Robotics
+
+    and Automation (ICRA)'
   year: 1999
 Roy99NIPS:
   authors:
@@ -2066,13 +2243,14 @@ Roy99NIPS:
   - link: http://groups.csail.mit.edu/rrg/papers/nips99.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/nips99.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Roy99NIPS,\n  author =       {Nicholas Roy and Sebastian\
     \ Thrun},\n  title =        {Coastal Navigation with Mobile Robots},\n  booktitle\
     \ =    {Advances in Neural Processing Systems 12},\n  volume =       {12},\n \
     \ year =         {1999},\n  pages =        {1043-1049},\n  note = {http://groups.csail.mit.edu/rrg/papers/nips99.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/nips99.pdf}\n}\n\n"
   title: Coastal Navigation with Mobile Robots
+  venue: Advances in Neural Processing Systems 12
   year: 1999
 Ryan2014Cyber:
   authors:
@@ -2091,6 +2269,7 @@ Ryan2014Cyber:
     \ = {https://dspace.mit.edu/handle/1721.1/90332}\n}\n\n"
   title: Comparing the performance of expert user heuristics and an integer linear
     program in aircraft carrier deck operations
+  venue: IEEE Transactions on Cybernetics
   year: 2014
 SGilISRR11:
   authors:
@@ -2108,6 +2287,7 @@ SGilISRR11:
     \  address =  {Flagstaff, AZ},\n  url = {https://people.csail.mit.edu/prentice/papers/isrr11-gil.pdf}\n\
     }\n\n\n"
   title: Decentralized Control for Optimizing Communication with Infeasible Regions
+  venue: Proceedings of the International Symposium of Robotics Research (ISRR)
   year: 2011
 Sachi11ICRA:
   authors:
@@ -2119,7 +2299,7 @@ Sachi11ICRA:
   - link: http://groups.csail.mit.edu/rrg/papers/sachi_icra11.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/sachi_icra11.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Sachi11ICRA,\n  author =       {S. Hemachandra and T.\
     \ Kollar and N. Roy and S. Teller},\n  title =        {Following and Interpreting\
     \ Narrated Guided Tours},\n  booktitle =    {Proceedings of the IEEE International\
@@ -2127,6 +2307,7 @@ Sachi11ICRA:
     \ =      {Shanghai, China},\n  note = {http://groups.csail.mit.edu/rrg/papers/sachi_icra11.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/sachi_icra11.pdf}\n}\n\n"
   title: Following and Interpreting Narrated Guided Tours
+  venue: Proceedings of the IEEE International Conference on Robotics and Automation
   year: 2011
 Sim04ICRA:
   authors:
@@ -2137,7 +2318,7 @@ Sim04ICRA:
   - link: https://web.mit.edu/nickroy/www/papers/icra04.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/icra04.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Sim04ICRA,\n  author =   {Robert Sim and Gregory Dudek\
     \ and Nicholas Roy},\n  title =    {Online Control Policy Optimization for Minimizing\
     \ Map\n                  Uncertainty during Exploration},\n  booktitle =    {Proceedings\
@@ -2148,6 +2329,9 @@ Sim04ICRA:
   title: 'Online Control Policy Optimization for Minimizing Map
 
     Uncertainty during Exploration'
+  venue: 'Proceedings of the IEEE International Conference on
+
+    Robotics and Automation (ICRA 2004)'
   year: 2004
 Sim05ICRA:
   authors:
@@ -2157,13 +2341,16 @@ Sim05ICRA:
   - link: http://groups.csail.mit.edu/rrg/papers/icra05-rs.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/icra05-rs.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Sim05ICRA,\n  author =   {Robert Sim and Nicholas Roy},\n\
     \  title =    {Global A-Optimal Robot Exploration in SLAM},\n  booktitle =  {Proceedings\
     \ of the IEEE International Conference on Robotics\n  and Automation (ICRA)},\n\
     \  year =   {2005},\n  address =  {Barcelona, Spain},\n  note = {http://groups.csail.mit.edu/rrg/papers/icra05-rs.ps.gz},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/icra05-rs.pdf}\n}\n\n"
   title: Global A-Optimal Robot Exploration in SLAM
+  venue: 'Proceedings of the IEEE International Conference on Robotics
+
+    and Automation (ICRA)'
   year: 2005
 Stachniss07IROS:
   authors:
@@ -2176,7 +2363,7 @@ Stachniss07IROS:
   - link: http://groups.csail.mit.edu/rrg/papers/iros07-cs.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/iros07-cs.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Stachniss07IROS,\n  author =   {Cyrill Stachniss and\
     \ Giorgio Grisetti and Wolfram Burgard and\n  Nicholas Roy},\n  title =    {Analyzing\
     \ Gaussian Proposal Distributions for Mapping with\n  Rao-Blackwellized Particle\
@@ -2187,6 +2374,9 @@ Stachniss07IROS:
   title: 'Analyzing Gaussian Proposal Distributions for Mapping with
 
     Rao-Blackwellized Particle Filters'
+  venue: 'Proceedings of the IEEE/RSJ International Conference on
+
+    Intelligent Robots and Systems (IROS)'
   year: 2007
 Stein2018ICRA:
   authors:
@@ -2196,7 +2386,7 @@ Stein2018ICRA:
   - link: https://arxiv.org/pdf/1710.04280.pdf
     name: PDF
   - link: https://www.youtube.com/watch?v=xfcvT-TcjS8
-    name: video
+    name: Video
   raw_string: "@InProceedings{Stein2018ICRA,\n  author =   {G. J. Stein and N. Roy},\n\
     \  title =    {GeneSIS-RT: Generating Synthetic Images for training Secondary\
     \ Real-world Tasks},\n  booktitle =    {Proceedings of the IEEE International\
@@ -2204,6 +2394,8 @@ Stein2018ICRA:
     \  video={https://www.youtube.com/watch?v=xfcvT-TcjS8}\n}\n\n"
   title: 'GeneSIS-RT: Generating Synthetic Images for training Secondary Real-world
     Tasks'
+  venue: Proceedings of the IEEE International Conference on Robotics and Automation
+    (ICRA)
   year: 2018
 Teller10ICRA:
   authors:
@@ -2225,7 +2417,7 @@ Teller10ICRA:
   - link: http://groups.csail.mit.edu/rrg/papers/icra10-st.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/icra10-st.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Teller10ICRA,\n  author =   {S. Teller and A. Correa\
     \ and R. Davis and L. Fletcher and\nE. Frazzoli and J. Glass and J.P. How and\
     \ J. H. Jeon and S. Karaman and B. Luders and N. Roy and T. Sainath and M.R. Walter},\n\
@@ -2236,6 +2428,8 @@ Teller10ICRA:
     \  url = {http://groups.csail.mit.edu/rrg/papers/icra10-st.pdf}\n}\n\n"
   title: A Voice-Commandable Robotic Forklift Working Alongside Humans in Minimally-Prepared
     Outdoor Environments
+  venue: Proceedings of the IEEE International Conference on Robotics and Automation
+    (ICRA)
   year: 2010
 Tellex10ICMI:
   authors:
@@ -2267,6 +2461,8 @@ Tellex10ICMI:
 
     '
   title: Grounding Spatial Language for Video Search
+  venue: Proceedings of the Eleventh International Conference on Multimodal Interfaces
+    (ICMI)
   year: 2010
 Tellex11a:
   authors:
@@ -2304,6 +2500,7 @@ Tellex11a:
 
     '
   title: Approaching the Symbol Grounding Problem with Probabilistic Graphical Models
+  venue: AI Magazine
   year: 2011
 Tellex2014MLJ:
   authors:
@@ -2321,6 +2518,7 @@ Tellex2014MLJ:
     \  month =  {February},\n  url = {http://groups.csail.mit.edu/rrg/papers/TellexMLJ14.pdf}\n\
     }\n\n"
   title: Learning Perceptually Grounded Word Meanings From Unaligned Parallel Data
+  venue: Machine Learning Journal
   year: 2014
 Thrun00IJRR:
   authors:
@@ -2342,7 +2540,7 @@ Thrun00IJRR:
   - link: http://www.cs.cmu.edu/~thrun/papers/thrun.ijrr-minerva.pdf
     name: PDF
   - link: http://www.cs.cmu.edu/~thrun/papers/thrun.ijrr-minerva.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@Article{Thrun00IJRR,\n  author =   {S. Thrun and M. Beetz and M. Bennewitz\
     \ and W. Burgard and\n      A.B. Cremers and F. Dellaert and D. Fox and D. Haehnel\
     \ and\n      C. Rosenberg and N. Roy and J. Schulte and D. Schulz},\n  title =\
@@ -2354,6 +2552,7 @@ Thrun00IJRR:
   title: 'Probabilistic Algorithms and the Interactive Museum
 
     Tour-Guide Robot Minerva'
+  venue: International Journal of Robotics Research
   year: 2000
 Thrun98AAAIs:
   authors:
@@ -2363,7 +2562,7 @@ Thrun98AAAIs:
   - link: http://groups.csail.mit.edu/rrg/papers/position98.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/position98.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Thrun98AAAIs,\n  author =   {Sebastian Thrun and Nicholas\
     \ Roy},\n  title =    {Integrating Learning for Robust Development},\n  booktitle\
     \ =  {Proceedings of the AAAI Spring Symposium: Integrating\n      Robotic Research},\n\
@@ -2371,6 +2570,9 @@ Thrun98AAAIs:
     \  note = {http://groups.csail.mit.edu/rrg/papers/position98.ps.gz},\n  url =\
     \ {http://groups.csail.mit.edu/rrg/papers/position98.pdf}\n}\n\n"
   title: Integrating Learning for Robust Development
+  venue: 'Proceedings of the AAAI Spring Symposium: Integrating
+
+    Robotic Research'
   year: 1998
 Thrun99FSR:
   authors:
@@ -2400,6 +2602,9 @@ Thrun99FSR:
     \ Robotics (FSR'99)},\n  year =   {1999},\n  address =  {Pittsburgh, PA},\n  month\
     \ =  {August},\n}\n\n"
   title: Experiences with two deployed interactive tour-guide robots
+  venue: 'Proceedings of the International Conference on Field and
+
+    Service Robotics (FSR''99)'
   year: 1999
 Thrun99ICRA:
   authors:
@@ -2420,7 +2625,7 @@ Thrun99ICRA:
   - link: http://www.cs.cmu.edu/~thrun/papers/thrun.icra_minerva.pdf
     name: PDF
   - link: http://www.cs.cmu.edu/~thrun/papers/thrun.icra_minerva.ps.gz
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@InProceedings{Thrun99ICRA,\n  author =   {Sebastian Thrun and Maren\
     \ Bennewitz and Wolfram Burgard and\n      Frank Dellaert and Dieter Fox and Dirk\
     \ Hahnel and Chuck\n      Rosenberg and Nicholas Roy and Jamieson Schulte and\
@@ -2430,6 +2635,9 @@ Thrun99ICRA:
     \  month =  {May},\n  note = {http://www.cs.cmu.edu/~thrun/papers/thrun.icra_minerva.ps.gz},\n\
     \  pdf = {http://www.cs.cmu.edu/~thrun/papers/thrun.icra_minerva.pdf}\n}\n\n"
   title: '{MINERVA}: A Second-Generation Museum Tour-Guide Robot'
+  venue: 'Proc. of the IEEE International Conference on Robotics
+
+    and Automation (ICRA)'
   year: 1999
 Thrun99KIW:
   authors:
@@ -2457,6 +2665,9 @@ Thrun99KIW:
     \ =   {1999},\n  address =  {Germany},\n  publisher =  {Springer Verlag},\n}\n\
     \n"
   title: 'MINERVA: A tour-guide robot that learns'
+  venue: 'Proc. of the 23nd German Conference on
+
+    Artificial Intelligence (KI ''99)'
   year: 1999
 Vasilopoulos2018ICRA:
   authors:
@@ -2469,7 +2680,7 @@ Vasilopoulos2018ICRA:
   - link: http://groups.csail.mit.edu/rrg/papers/vasilopoulos2018sensor_a.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/vasilopoulos2018sensor_a.mp4
-    name: video
+    name: Video
   raw_string: "@InProceedings{Vasilopoulos2018ICRA,\n  author =   {V. Vasilopoulos\
     \ and W. Vega-Brown and O. Arslan and N. Roy and D. Koditschek},\n  title =  \
     \  {Sensor-Based Reactive Symbolic Planning in Partially Known Environments},\n\
@@ -2478,6 +2689,8 @@ Vasilopoulos2018ICRA:
     \  video={http://groups.csail.mit.edu/rrg/papers/vasilopoulos2018sensor_a.mp4}\n\
     }\n\n"
   title: Sensor-Based Reactive Symbolic Planning in Partially Known Environments
+  venue: Proceedings of the IEEE International Conference on Robotics and Automation
+    (ICRA)
   year: 2018
 Velez11ICAPS:
   authors:
@@ -2496,6 +2709,7 @@ Velez11ICAPS:
     \ =         {2011},\n  address =      {Freiburg, Germany},\n  url = {http://groups.csail.mit.edu/rrg/papers/velezj_icaps11.pdf}\n\
     }\n\n"
   title: 'Planning to Perceive: Exploiting Mobility for Robust Object Detection'
+  venue: Proceedings of the International Conference on Automated Planning and Scheduling
   year: 2011
 Velez11IJCAI:
   authors:
@@ -2514,6 +2728,7 @@ Velez11IJCAI:
     \ Spain},\n  url = {http://groups.csail.mit.edu/rrg/papers/velezj_ijcai11.pdf}\n\
     }\n\n"
   title: Active Exploration for Robust Object Detection
+  venue: Proceedings of the Joint Conference on Artificial Intelligence
   year: 2011
 WalterJFR2015:
   authors:
@@ -2547,6 +2762,7 @@ WalterJFR2015:
     }\n\n"
   title: A Situationally Aware Voice-commandable Robotic Forklift Working Alongside
     People in Unstructured Outdoor Environments
+  venue: Journal of Field Robotics (JFR)
   year: 2015
 Wei09ICRA:
   authors:
@@ -2561,6 +2777,9 @@ Wei09ICRA:
     \ the IEEE International\nConference on Robotics and Automation (ICRA)},\n  year\
     \ =   {2009},\n  address =  {Kobe, Japan},\n}\n\n"
   title: 'Where to Go: Interpreting Natural Directions Using Global Inference'
+  venue: 'Proceedings of the IEEE International
+
+    Conference on Robotics and Automation (ICRA)'
   year: 2009
 aoudeLJRH13:
   authors:
@@ -2586,6 +2805,7 @@ aoudeLJRH13:
   title: 'Probabilistically safe motion planning to avoid dynamic
 
     obstacles with uncertain motion patterns'
+  venue: Auton. Robots
   year: 2013
 bachrach2009co:
   authors:
@@ -2607,6 +2827,7 @@ bachrach2009co:
     \  pdf={https://dspace.mit.edu/bitstream/handle/1721.1/58750/Roy_Co-ordinated%20tracking.pdf;sequence=1}\n\
     }\n\n"
   title: Co-ordinated tracking and planning using air and ground vehicles
+  venue: 'Experimental Robotics: The Eleventh International Symposium'
   year: 2009
 bachrach2012estimation:
   authors:
@@ -2632,6 +2853,7 @@ bachrach2012estimation:
     }\n\n"
   title: Estimation, planning, and mapping for autonomous flight using an RGB-D camera
     in GPS-denied environments
+  venue: The International Journal of Robotics Research
   year: 2012
 bachrachautonomous:
   authors:
@@ -2647,6 +2869,7 @@ bachrachautonomous:
     \  year={2009},\n  url={https://groups.csail.mit.edu/rrg/papers/emav09.pdf}\n\
     }\n\n"
   title: Autonomous Flight in Unstructured and Unknown Indoor Environments
+  venue: European COnference on Micro Air Vehicles
   year: 2009
 bollini2013interpreting:
   authors:
@@ -2665,6 +2888,8 @@ bollini2013interpreting:
     \  year={2013},\n  organization={Springer},\n  url={http://static.cs.brown.edu/people/stellex/publications/bollini12.pdf}\n\
     }\n\n"
   title: Interpreting and executing recipes with a cooking robot
+  venue: 'Experimental Robotics: The 13th International Symposium on Experimental
+    Robotics'
   year: 2013
 boussemart2009comparing:
   authors:
@@ -2683,6 +2908,7 @@ boussemart2009comparing:
     }\n\n"
   title: Comparing learning techniques for hidden Markov Models of human supervisory
     control behavior
+  venue: AIAA Infotech at Aerospace Conference and AIAA Unmanned... Unlimited Conference
   year: 2009
 brock2006special:
   authors:
@@ -2700,6 +2926,7 @@ brock2006special:
     \ Publications Sage CA: Thousand Oaks, CA},\n  url={https://journals.sagepub.com/doi/abs/10.1177/02783649506073387}\n\
     }\n\n"
   title: 'Special Issue on Robotics: Science and Systems 2005'
+  venue: The International Journal of Robotics Research
   year: 2006
 bryICRA12:
   authors:
@@ -2718,6 +2945,9 @@ bryICRA12:
   title: 'State Estimation for Aggressive Flight in GPS-Denied
 
     Environments Using Onboard Sensing'
+  venue: 'Proceedings of the IEEE International Conference on Robotics
+
+    and Automation (ICRA 2012)'
   year: 2012
 bush2009unifying:
   authors:
@@ -2735,6 +2965,7 @@ bush2009unifying:
     }\n\n"
   title: Unifying plan-space value-based approximate dynamic programming policies
     and open loop feedback control
+  venue: AIAA Infotech at Aerospace Conference and AIAA Unmanned... Unlimited Conference
   year: 2009
 byl2009reliable:
   authors:
@@ -2752,6 +2983,7 @@ byl2009reliable:
     \ Eleventh International Symposium},\n  pages={319--328},\n  year={2009},\n  organization={Springer},\n\
     \  pdf={https://groups.csail.mit.edu/rrg/papers/iser08-kb.pdf}\n}\n\n"
   title: Reliable dynamic motions for a stiff quadruped
+  venue: 'Experimental Robotics: The Eleventh International Symposium'
   year: 2009
 cbradley_corl22:
   authors:
@@ -2766,6 +2998,8 @@ cbradley_corl22:
     \ for Long-Horizon Planning},\n year={2022},\n organization={IFRR},\n url = {http://groups.csail.mit.edu/rrg/papers/cbradley_corl_workshop_22.pdf}\n\
     }\n\n"
   title: Learning to Guide Search in Long-Horizon Task and Motion Planning
+  venue: CoRL 2022 Workshop on Learning, Perception, and Abstraction for Long-Horizon
+    Planning
   year: 2022
 cbradley_icra21:
   authors:
@@ -2784,6 +3018,7 @@ cbradley_icra21:
     \ year={2021},\n organization={IEEE},\n url = {http://groups.csail.mit.edu/rrg/papers/cbrad_icra_21.pdf}\n\
     }\n\n"
   title: Learning and Planning for Temporally Extended Tasks in Unknown Environments
+  venue: 2021 IEEE International Conference on Robotics and Automation (ICRA)
   year: 2021
 cbradley_iser23:
   authors:
@@ -2798,6 +3033,7 @@ cbradley_iser23:
     \ organization={IFRR},\n url = {http://groups.csail.mit.edu/rrg/papers/cbradley_iser_2023.pdf}\n\
     }\n\n"
   title: Learning Feasibility and Cost to Guide TAMP
+  venue: 18th International Symposium on Experimental Robotics (ISER 2023)
   year: 2023
 craparo2007decentralized:
   authors:
@@ -2814,6 +3050,7 @@ craparo2007decentralized:
     \ Navigation and Control Conference and Exhibit},\n  pages={6751},\n  year={2007},\n\
     \  pdf={https://faculty.nps.edu/emcrapar/GNC2007.pdf}\n}\n\n"
   title: Decentralized Estimation under Communication Constraints
+  venue: AIAA Guidance, Navigation and Control Conference and Exhibit
   year: 2007
 daehyung_corl19:
   authors:
@@ -2832,6 +3069,7 @@ daehyung_corl19:
     \ url={http://groups.csail.mit.edu/rrg/papers/daehyung_corl_19.pdf}\n}\n\n"
   title: Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse
     Reinforcement Learning
+  venue: Proceedings of the 3rd Conference on Robot Learning (CoRL)
   year: 2019
 doshilearning:
   authors:
@@ -2847,6 +3085,7 @@ doshilearning:
     }\n\n"
   title: 'Learning User Models with Limited Reinforcement: An Adaptive Human-Robot
     Interaction System'
+  venue: International Symposium on Language and Robots
   year: 2007
 duvallet2016inferring:
   authors:
@@ -2869,6 +3108,8 @@ duvallet2016inferring:
     \  year={2016},\n  organization={Springer},\n  url={https://people.csail.mit.edu/mwalter/papers/duvallet14.pdf}\n\
     }\n\n"
   title: Inferring maps and behaviors from natural language instructions
+  venue: 'Experimental Robotics: The 14th International Symposium on Experimental
+    Robotics'
   year: 2016
 fallon2014drift:
   authors:
@@ -2887,6 +3128,7 @@ fallon2014drift:
     }\n\n"
   title: Drift-free humanoid state estimation fusing kinematic, inertial and lidar
     sensing
+  venue: 2014 IEEE-RAS International Conference on Humanoid Robots
   year: 2014
 flaspo_preston_RAL19:
   authors:
@@ -2906,6 +3148,7 @@ flaspo_preston_RAL19:
     }\n \n"
   title: Information-Guided Robotic Maximum Seek-and-Sample in Partially Observable
     Continuous Environments
+  venue: Robotics and Automation Letters (RA-L)
   year: 2019
 flaspohler2017feature:
   authors:
@@ -2924,6 +3167,8 @@ flaspohler2017feature:
     }\n\n"
   title: Feature discovery and visualization of robot mission data using convolutional
     autoencoders and Bayesian nonparametric topic models
+  venue: 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
   year: 2017
 flaspohler_neurips_2020:
   authors:
@@ -2939,6 +3184,7 @@ flaspohler_neurips_2020:
     \ in Neural Information Processing (NeurIPS)},\n  year =   {2020},\n  url={http://groups.csail.mit.edu/rrg/papers/flaspohler_neurips_2020.pdf}\n\
     }\n\n"
   title: Belief-Dependent Macro-Action Discovery in POMDPs using the Value of Information
+  venue: Advances in Neural Information Processing (NeurIPS)
   year: 2020
 geramifard2012model:
   authors:
@@ -2957,6 +3203,7 @@ geramifard2012model:
     \ organization={IEEE},\n  url={https://groups.csail.mit.edu/rrg/papers/12ACC-AdaptiveModel.pdf}\n\
     }\n\n\n\n"
   title: Model estimation within planning and learning
+  venue: 2012 American Control Conference (ACC)
   year: 2012
 geramifard2013batch:
   authors:
@@ -2973,6 +3220,7 @@ geramifard2013batch:
     \ Intelligence},\n  pages={242},\n  year={2013},\n  organization={Citeseer},\n\
     \  url={https://people.csail.mit.edu/agf/Files/13UAI-BatchiFDD.pdf}\n}\n\n"
   title: Batch-iFDD for Representation Expansion in Large MDPs
+  venue: Uncertainty in Artificial Intelligence
   year: 2013
 greene2016multi:
   authors:
@@ -2984,7 +3232,7 @@ greene2016multi:
   - link: https://groups.csail.mit.edu/rrg/papers/greene_icra16.pdf
     name: PDF
   - link: https://www.youtube.com/watch?v=qk2ViPVxmq0&feature=youtu.be
-    name: video
+    name: Video
   raw_string: "@inproceedings{greene2016multi,\n  title={Multi-level mapping: Real-time\
     \ dense monocular slam},\n  author={Greene, W Nicholas and Ok, Kyel and Lommel,\
     \ Peter and Roy, Nicholas},\n  booktitle={2016 IEEE International Conference on\
@@ -2992,6 +3240,7 @@ greene2016multi:
     \  url = {https://groups.csail.mit.edu/rrg/papers/greene_icra16.pdf},\n  video\
     \ = {https://www.youtube.com/watch?v=qk2ViPVxmq0&feature=youtu.be}\n}\n\n"
   title: 'Multi-level mapping: Real-time dense monocular slam'
+  venue: 2016 IEEE International Conference on Robotics and Automation (ICRA)
   year: 2016
 greene2021multiviewstereonet:
   authors:
@@ -3008,6 +3257,7 @@ greene2021multiviewstereonet:
     }\n\n"
   title: 'MultiViewStereoNet: Fast Multi-View Stereo Depth Estimation using Incremental
     Viewpoint-Compensated Feature Extraction'
+  venue: 2021 IEEE International Conference on Robotics and Automation (ICRA)
   year: 2021
 greene_icra20:
   authors:
@@ -3022,6 +3272,7 @@ greene_icra20:
     \ pages={43--50},\n year={2020},\n organization={IEEE},\n url = {http://groups.csail.mit.edu/rrg/papers/greene_icra20.pdf}\n\
     }\n\n"
   title: Metrically-Scaled Monocular SLAM using Learned Scale Factors
+  venue: 2020 International Conference on Robotics and Automation (ICRA)
   year: 2020
 hemachandra2015learning:
   authors:
@@ -3042,6 +3293,7 @@ hemachandra2015learning:
     \  organization={IEEE},\n  url={https://felixduvallet.github.io/pubs/2015-hemachandra-icra.pdf}\n\
     }\n\n"
   title: Learning models for following natural language directions in unknown environments
+  venue: 2015 IEEE International Conference on Robotics and Automation (ICRA)
   year: 2015
 how2009increasing:
   authors:
@@ -3063,6 +3315,7 @@ how2009increasing:
     \  pages={43--51},\n  year={2009},\n  publisher={IEEE},\n  url={https://dspace.mit.edu/handle/1721.1/51874}\n\
     }\n\n"
   title: Increasing autonomy of UAVs
+  venue: IEEE Robotics \& Automation Magazine
   year: 2009
 josephICRA12:
   authors:
@@ -3079,6 +3332,9 @@ josephICRA12:
     \  address =      {St Paul, MN},\n  url = {http://groups.csail.mit.edu/rrg/papers/icra12_battery_modeling.pdf}\n\
     }\n\n"
   title: A Bayesian Nonparametric Approach to Modeling Battery Health
+  venue: 'Proceedings of the IEEE International Conference on Robotics
+
+    and Automation (ICRA 2012)'
   year: 2012
 josephICRA13:
   authors:
@@ -3096,6 +3352,7 @@ josephICRA13:
     \ Misspecified Model Classes}},\n  Year = {2013},\n  url={http://groups.csail.mit.edu/rrg/papers/josephICRA13.pdf}\n\
     }\n\n"
   title: '{Reinforcement Learning with Misspecified Model Classes}'
+  venue: IEEE International Conference on Robotics and Automation (ICRA)
   year: 2013
 knowles2021toward:
   authors:
@@ -3113,6 +3370,7 @@ knowles2021toward:
     \  year={2021},\n  organization={IEEE},\n  url={https://groups.csail.mit.edu/rrg/papers/knowles-icra21.pdf}\n\
     }\n\n"
   title: Toward robust and efficient online adaptation for deep stereo depth estimation
+  venue: 2021 IEEE International Conference on Robotics and Automation (ICRA)
   year: 2021
 kurtz_prentice_fricra24:
   authors:
@@ -3136,6 +3394,7 @@ kurtz_prentice_fricra24:
     }\n\n"
   title: Real-world Deployment of a Hierarchical Uncertainty-Aware Collaborative Multiagent
     Planning System
+  venue: 2024 ICRA Workshop on Field Robotics
   year: 2024
 liu2021volumon:
   authors:
@@ -3153,6 +3412,8 @@ liu2021volumon:
     }\n\n"
   title: 'VoluMon: Weakly-supervised volumetric monocular estimation with ellipsoid
     representations'
+  venue: 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
   year: 2021
 liu_stadler_icra20:
   authors:
@@ -3170,6 +3431,7 @@ liu_stadler_icra20:
     }\n\n"
   title: Learned Sampling Distributions for Efficient Planning in Hybrid Geometric
     and Object-Level Representations
+  venue: 2020 International Conference on Robotics and Automation (ICRA)
   year: 2020
 marquez2012collaborative:
   authors:
@@ -3187,6 +3449,7 @@ marquez2012collaborative:
     \  booktitle={Infotech at Aerospace},\n  pages={6993},\n  year={2012},\n  pdf={https://groups.csail.mit.edu/rrg/papers/MarquezAIAAPaper.pdf}\n\
     }\n\n"
   title: Collaborative human-computer decision support for planetary surface traversal
+  venue: Infotech at Aerospace
   year: 2012
 messing_banfi_rss23:
   authors:
@@ -3208,6 +3471,7 @@ messing_banfi_rss23:
     }\n\n"
   title: A Sampling-Based Approach for Heterogeneous Coalition Scheduling with Temporal
     Uncertainty
+  venue: Proceedings of Robotics Science and Systems (RSS)
   year: 2023
 moses_noseworthy_icra20:
   authors:
@@ -3226,6 +3490,7 @@ moses_noseworthy_icra20:
     \ (ICRA)},\n pages={10480--10486},\n year={2020},\n organization={IEEE},\n url\
     \ = {http://groups.csail.mit.edu/rrg/papers/moses_noseworthy_icra20.pdf}\n}\n\n"
   title: Visual Prediction of Priors for Articulated Object Interaction
+  venue: 2020 International Conference on Robotics and Automation (ICRA)
   year: 2020
 nicholas2017flame:
   authors:
@@ -3235,7 +3500,7 @@ nicholas2017flame:
   - link: https://groups.csail.mit.edu/rrg/papers/greene_iccv17.pdf
     name: PDF
   - link: https://www.youtube.com/watch?v=8Wrn1vA7sig&feature=youtu.be
-    name: video
+    name: Video
   raw_string: "@inproceedings{nicholas2017flame,\n  title={FLaME: Fast lightweight\
     \ mesh estimation using variational smoothing on delaunay graphs},\n  author={Nicholas\
     \ Greene, W and Roy, Nicholas},\n  booktitle={Proceedings of the IEEE International\
@@ -3243,6 +3508,7 @@ nicholas2017flame:
     \  video={https://www.youtube.com/watch?v=8Wrn1vA7sig&feature=youtu.be}\n}\n\n"
   title: 'FLaME: Fast lightweight mesh estimation using variational smoothing on delaunay
     graphs'
+  venue: Proceedings of the IEEE International Conference on Computer Vision
   year: 2017
 noseworthy_corl19:
   authors:
@@ -3260,6 +3526,7 @@ noseworthy_corl19:
     \ of the 3rd Conference on Robot Learning (CoRL)},\n year={2019},\n url={http://groups.csail.mit.edu/rrg/papers/noseworthy_corl_19.pdf}\n\
     }\n\n"
   title: Task-Conditioned Variational Autoencoders for Learning Movement Primitives
+  venue: Proceedings of the 3rd Conference on Robot Learning (CoRL)
   year: 2019
 noseworthy_moses_brand_rss21:
   authors:
@@ -3280,6 +3547,7 @@ noseworthy_moses_brand_rss21:
     \ and Systems (RSS)},\n year={2021},\n url = {http://groups.csail.mit.edu/rrg/papers/noseworthy_moses_brand_rss21.pdf}\n\
     }\n\n"
   title: Active Learning of Abstract Plan Feasibility
+  venue: Proceedings of Robotics Science and Systems (RSS)
   year: 2021
 noseworthy_shaw_icra24:
   authors:
@@ -3297,6 +3565,7 @@ noseworthy_shaw_icra24:
     \ url = {http://groups.csail.mit.edu/rrg/papers/noseworthy_shaw_icra24.pdf}\n\
     }\n\n"
   title: Amortized Inference for Efficient Grasp Model Adaptation
+  venue: 2024 International Conference on Robotics and Automation (ICRA)
   year: 2024
 nyga2018grounding:
   authors:
@@ -3311,7 +3580,7 @@ nyga2018grounding:
   - link: http://proceedings.mlr.press/v87/nyga18a/nyga18a.pdf
     name: PDF
   - link: https://www.youtube.com/watch?v=uWv-l7XMoB8&feature=youtu.be
-    name: video
+    name: Video
   raw_string: "@InProceedings{nyga2018grounding,\n  author =   {D. Nyga and S. Roy\
     \ and R. Paul and D. Park and M. Pomarlan and M. Beetz and N. Roy},\n  title =\
     \    {Grounding Robot Plans from Natural Language Instructions with Incomplete\
@@ -3321,6 +3590,7 @@ nyga2018grounding:
     \ \n"
   title: Grounding Robot Plans from Natural Language Instructions with Incomplete
     World Knowledge
+  venue: Proceedings of the Conference on Robot Learning (CoRL)
   year: 2018
 ok2015monocular:
   authors:
@@ -3339,6 +3609,7 @@ ok2015monocular:
     \  year={2015},\n  organization={IEEE},\n  url={https://dellaert.github.io/files/Ok15icra.pdf}\n\
     }\n\n"
   title: Monocular image space tracking on a computationally limited MAV
+  venue: 2015 IEEE International Conference on Robotics and Automation (ICRA)
   year: 2015
 ok2016simultaneous:
   authors:
@@ -3356,6 +3627,7 @@ ok2016simultaneous:
     }\n\n"
   title: 'Simultaneous tracking and rendering: Real-time monocular localization for
     MAVs'
+  venue: 2016 IEEE International Conference on Robotics and Automation (ICRA)
   year: 2016
 ok2021hierarchical:
   authors:
@@ -3372,6 +3644,7 @@ ok2021hierarchical:
     \  organization={IEEE},\n  url = {http://groups.csail.mit.edu/rrg/papers/ok_icra21.pdf}\n\
     }\n\n"
   title: Hierarchical object map estimation for efficient and robust navigation
+  venue: 2021 IEEE International Conference on Robotics and Automation (ICRA)
   year: 2021
 ok_liu_icra19:
   authors:
@@ -3390,6 +3663,7 @@ ok_liu_icra19:
     \ organization={IEEE},\n url={http://groups.csail.mit.edu/rrg/papers/OkLiu19icra.pdf}\n\
     }\n\n"
   title: Robust Object-based SLAM for High-speed Autonomous Navigation
+  venue: 2019 International Conference on Robotics and Automation (ICRA)
   year: 2019
 park2009learning:
   authors:
@@ -3407,6 +3681,7 @@ park2009learning:
     \  url={https://dspace.mit.edu/handle/1721.1/55348}\n}\n\n"
   title: Learning covariance dynamics for path planning of UAV sensors in a large-scale
     dynamic environment
+  venue: AIAA Guidance, Navigation, and Control Conference
   year: 2009
 paul2016efficient:
   authors:
@@ -3425,6 +3700,7 @@ paul2016efficient:
     }\n\n"
   title: Efficient grounding of abstract spatial concepts for natural language interaction
     with robot manipulators
+  venue: 'Robotics: Science and Systems'
   year: 2016
 paul2017temporal:
   authors:
@@ -3444,6 +3720,7 @@ paul2017temporal:
     }\n\n"
   title: Temporal grounding graphs for language understanding with accrued visual-linguistic
     context
+  venue: Proceedings of the 26th International Joint Conference on Artificial Intelligence
   year: 2017
 peretroukhin2016probe:
   authors:
@@ -3461,6 +3738,7 @@ peretroukhin2016probe:
     \  year={2016},\n  organization={IEEE},\n  url={https://people.csail.mit.edu/wrvb/files/publications/peretroukhin2016probe-gk.pdf}\n\
     }\n\n"
   title: 'PROBE-GK: Predictive robust estimation using generalized kernels'
+  venue: 2016 IEEE International Conference on Robotics and Automation (ICRA)
   year: 2016
 peters2009robot:
   authors:
@@ -3477,6 +3755,7 @@ peters2009robot:
     \  pages={19--20},\n  year={2009},\n  publisher={IEEE},\n  pdf={https://groups.csail.mit.edu/robotics-center/public_papers/Peters09.pdf}\n\
     }\n\n"
   title: Robot learning [TC Spotlight]
+  venue: IEEE Robotics \& Automation Magazine
   year: 2009
 plagemann2008learning:
   authors:
@@ -3497,6 +3776,7 @@ plagemann2008learning:
     \  organization={IEEE},\n  pdf={https://people.csail.mit.edu/prentice/papers/iros08-cp.pdf}\n\
     }\n\n"
   title: Learning predictive terrain models for legged robot locomotion
+  venue: 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems
   year: 2008
 preston2022frontiers:
   authors:
@@ -3522,6 +3802,7 @@ preston2022frontiers:
     \  doi = {10.3389/feart.2022.984355},\n  issn = {2296-6463},\n}\n\n"
   title: 'Discovering hydrothermalism from afar: in situ methane instrumentation and
     change-point detection for decision-making'
+  venue: Frontiers in Earth Science
   year: 2022
 radaideh2021physics:
   authors:
@@ -3545,6 +3826,7 @@ radaideh2021physics:
     }\n\n"
   title: Physics-informed reinforcement learning optimization of nuclear assembly
     design
+  venue: Nuclear Engineering and Design
   year: 2021
 richter2017safe:
   authors:
@@ -3559,6 +3841,7 @@ richter2017safe:
     \ Science and Systems Foundation},\n  url={https://groups.csail.mit.edu/rrg/papers/richter_rss17.pdf}\n\
     }\n\n"
   title: Safe visual navigation via deep learning and novelty detection
+  venue: 'Robotics: Science and Systems'
   year: 2017
 richter_iser16:
   authors:
@@ -3573,6 +3856,8 @@ richter_iser16:
     \ (ISER 2016)},\n  year  = {2016},\n  address = {Tokyo},\n  url = {http://groups.csail.mit.edu/rrg/papers/richter_iser16.pdf}\n\
     }\n\n"
   title: Learning to Plan for Visibility in Navigation of Unknown Environments
+  venue: Proceedings of the International Symposium on Experimental Robotics (ISER
+    2016)
   year: 2016
 richter_isrr15:
   authors:
@@ -3589,6 +3874,7 @@ richter_isrr15:
     \ {Sestri Levante, Italy},\n  url = {http://groups.csail.mit.edu/rrg/papers/richter_isrr15.pdf}\n\
     }\n\n"
   title: Bayesian Learning for Safe High-Speed Navigation in Unknown Environments
+  venue: Proceedings of the International Symposium on Robotics Research (ISRR 2015)
   year: 2015
 roy2007adaptive:
   authors:
@@ -3609,6 +3895,8 @@ roy2007adaptive:
     \  organization={Springer},\n  url={https://link.springer.com/chapter/10.1007/978-3-540-72584-8_149}\n\
     }\n\n"
   title: Adaptive observation strategies for forecast error minimization
+  venue: 'Computational Science--ICCS 2007: 7th International Conference, Beijing,
+    China, May 27-30, 2007, Proceedings, Part I 7'
   year: 2007
 roy2007robotics:
   authors:
@@ -3619,6 +3907,7 @@ roy2007robotics:
     \ Elderly},\n  author={Roy, N and Pineau, J},\n  journal={Gerontechnology: Growing\
     \ old in a technological society},\n  pages={209--242},\n  year={2007}\n}\n\n"
   title: Robotics and Independence for the Elderly
+  venue: 'Gerontechnology: Growing old in a technological society'
   year: 2007
 roy_noseworthy_conll19:
   authors:
@@ -3637,6 +3926,8 @@ roy_noseworthy_conll19:
     \ pages={430--440},\n year={2019},\n url={http://groups.csail.mit.edu/rrg/papers/roy_noseworthy_conll_19.pdf}\n\
     }\n\n"
   title: Leveraging Past References for Robust Language Grounding
+  venue: Proceedings of the 23rd Conference on Computational Natural Language Learning
+    (CoNLL)
   year: 2019
 ryll_ICRA19:
   authors:
@@ -3648,7 +3939,7 @@ ryll_ICRA19:
   - link: http://groups.csail.mit.edu/rrg/papers/ryll19a.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/ryll19a.mp4
-    name: video
+    name: Video
   raw_string: "@inproceedings{ryll_ICRA19,\n title={Efficient Trajectory Planning\
     \ for High Speed Flight in Unknown Environments},\n author={Ryll, Markus and Ware,\
     \ John and Carter, John and Roy, Nick},\n booktitle={2019 International Conference\
@@ -3656,6 +3947,7 @@ ryll_ICRA19:
     \ url={http://groups.csail.mit.edu/rrg/papers/ryll19a.pdf},\n video = {http://groups.csail.mit.edu/rrg/papers/ryll19a.mp4}\n\
     }\n"
   title: Efficient Trajectory Planning for High Speed Flight in Unknown Environments
+  venue: 2019 International Conference on Robotics and Automation (ICRA)
   year: 2019
 ryll_iros20:
   authors:
@@ -3674,6 +3966,8 @@ ryll_iros20:
     }\n\n"
   title: Semantic Trajectory Planning for Long-Distant Unmanned Aerial Vehicle Navigation
     in Urban Environments
+  venue: Proceedings of the IEEE/RSJ International Conference on Intelligent Robots
+    and Systems (IROS)
   year: 2020
 stadler2021online:
   authors:
@@ -3690,6 +3984,8 @@ stadler2021online:
     \  year={2021},\n  organization={IEEE},\n  url={http://groups.csail.mit.edu/rrg/papers/stadler_iros21.pdf}\n\
     }\n\n"
   title: Online High-Level Model Estimation for Efficient Hierarchical Robot Navigation
+  venue: 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
   year: 2021
 stadler_banfi_roy_icaps23:
   authors:
@@ -3707,6 +4003,8 @@ stadler_banfi_roy_icaps23:
     }\n\n\n"
   title: Approximating the Value of Collaborative Team Actions for Efficient Multiagent
     Navigation in Uncertain Graphs
+  venue: Proceedings of the Thirty-Third International Conference on Automated Planning
+    and Scheduling
   year: 2023
 stein2018learning:
   authors:
@@ -3717,13 +4015,14 @@ stein2018learning:
   - link: http://proceedings.mlr.press/v87/stein18a/stein18a.pdf
     name: PDF
   - link: https://youtu.be/hmJ-LON5mQc
-    name: video
+    name: Video
   raw_string: "@InProceedings{stein2018learning,\n  author =   {G. J. Stein* and C.\
     \ Bradley* and N. Roy},\n  title =    {Learning over Subgoals for Efficient Navigation\
     \ of Structured, Unknown Environments},\n  booktitle =    {Proceedings of the\
     \ Conference on Robot Learning (CoRL)},\n  year =   {2018},\n  url = {http://proceedings.mlr.press/v87/stein18a/stein18a.pdf},\n\
     \  video = {https://youtu.be/hmJ-LON5mQc}\n}\n\n"
   title: Learning over Subgoals for Efficient Navigation of Structured, Unknown Environments
+  venue: Proceedings of the Conference on Robot Learning (CoRL)
   year: 2018
 stein_bradley_preston_icra20:
   authors:
@@ -3741,6 +4040,7 @@ stein_bradley_preston_icra20:
     \ organization={IEEE},\n url = {http://groups.csail.mit.edu/rrg/papers/stein_bradley_preston_icra20.pdf}\n\
     }\n\n"
   title: Enabling Topological Planning with Monocular Vision
+  venue: 2020 International Conference on Robotics and Automation (ICRA)
   year: 2020
 tellex2013toward:
   authors:
@@ -3760,6 +4060,7 @@ tellex2013toward:
     \ Systems Foundation},\n  url={https://www.roboticsproceedings.org/rss08/p52.pdf}\n\
     }\n\n"
   title: Toward information theoretic human-robot dialog
+  venue: 'Robotics: Science and Systems'
   year: 2013
 tellex2014asking:
   authors:
@@ -3777,6 +4078,7 @@ tellex2014asking:
     \  year={2014},\n  publisher={Robotics: Science and Systems Foundation},\n  url={https://groups.csail.mit.edu/rrg/papers/Tellex_RSS2014.pdf}\n\
     }\n\n"
   title: Asking for help using inverse semantics
+  venue: 'Robotics: Science and Systems'
   year: 2014
 tian2018search:
   authors:
@@ -3791,7 +4093,7 @@ tian2018search:
   - link: http://groups.csail.mit.edu/rrg/papers/tian_liu_ok_iser2018.pdf
     name: PDF
   - link: https://www.youtube.com/watch?v=2hRNx_0SWGw
-    name: video
+    name: Video
   raw_string: "@InProceedings{tian2018search,\n  author =   {Y. Tian and K. Liu and\
     \ K. Ok and L. Tran and D. Allen and N. Roy and J. P. How},\n  title =    {Search\
     \ and Rescue under the Forest Canopy using Multiple UAS},\n  booktitle =    {Proceedings\
@@ -3799,6 +4101,7 @@ tian2018search:
     \  {2018},\n  url={http://groups.csail.mit.edu/rrg/papers/tian_liu_ok_iser2018.pdf},\n\
     \  video={https://www.youtube.com/watch?v=2hRNx_0SWGw}\n}\n\n"
   title: Search and Rescue under the Forest Canopy using Multiple UAS
+  venue: Proceedings of the International Symposium on Experimental Robotics (ISER)
   year: 2018
 tucker2020learning:
   authors:
@@ -3818,6 +4121,7 @@ tucker2020learning:
     }\n\n"
   title: Learning unknown groundings for natural language interaction with mobile
     robots
+  venue: 'Robotics Research: The 18th International Symposium ISRR'
   year: 2020
 vasilopoulos2018sensor:
   authors:
@@ -3830,7 +4134,7 @@ vasilopoulos2018sensor:
   - link: http://groups.csail.mit.edu/rrg/papers/vasilopoulos2018sensor_b.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/vasilopoulos2018sensor_b.mp4
-    name: video
+    name: Video
   raw_string: "@InProceedings{vasilopoulos2018sensor,\n  author =   {V. Vasilopoulos\
     \ and W. Vega-Brown and T. Topping and N. Roy and D. Koditschek},\n  title = \
     \   {Sensor-Based Reactive Execution of Symbolic Rearrangement Plans by a Legged\
@@ -3841,6 +4145,9 @@ vasilopoulos2018sensor:
     }\n\n"
   title: Sensor-Based Reactive Execution of Symbolic Rearrangement Plans by a Legged
     Mobile Manipulator
+  venue: 'Proceedings of the IEEE/RSJ International Conference on
+
+    Intelligence Robots and Systems (IROS)'
   year: 2018
 vasilopoulos2022hierarchical:
   authors:
@@ -3853,7 +4160,7 @@ vasilopoulos2022hierarchical:
   - link: https://arxiv.org/pdf/2202.01385
     name: PDF
   - link: https://www.youtube.com/watch?v=CA4nh3d9Uf4
-    name: video
+    name: Video
   raw_string: "@inproceedings{vasilopoulos2022hierarchical,\n  title={A hierarchical\
     \ deliberative-reactive system architecture for task and motion planning in partially\
     \ known environments},\n  author={Vasilopoulos, Vasileios and Castro, Sebastian\
@@ -3863,6 +4170,7 @@ vasilopoulos2022hierarchical:
     \  video={https://www.youtube.com/watch?v=CA4nh3d9Uf4}\n}\n\n"
   title: A hierarchical deliberative-reactive system architecture for task and motion
     planning in partially known environments
+  venue: 2022 International Conference on Robotics and Automation (ICRA)
   year: 2022
 vega-brown2020task:
   authors:
@@ -3876,6 +4184,7 @@ vega-brown2020task:
     \ =  {AAAI Conference on Artificial Intelligence (AAAI)},\n  year =   {2020},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/vega-brown2020task.pdf}\n}\n\n"
   title: Task and Motion Planning is PSPACE-complete
+  venue: AAAI Conference on Artificial Intelligence (AAAI)
   year: 2020
 vega-brown_IJCAI18:
   authors:
@@ -3885,13 +4194,14 @@ vega-brown_IJCAI18:
   - link: http://groups.csail.mit.edu/rrg/papers/vega-brown18a.pdf
     name: PDF
   - link: http://groups.csail.mit.edu/rrg/papers/vega-brown18b.pdf
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@inproceedings{vega-brown_IJCAI18,\n  title={Admissible abstractions\
     \ for near-optimal task and motion planning},\n  author={William Vega-Brown and\
     \ Nicholas Roy},\n  booktitle={Proceedings of the International Joint Conference\
     \ on Artificial Intelligence},\n  year={2018},\n  address={Stockholm},\n  url={http://groups.csail.mit.edu/rrg/papers/vega-brown18a.pdf},\n\
     \  note={http://groups.csail.mit.edu/rrg/papers/vega-brown18b.pdf}\n}\n\n\n"
   title: Admissible abstractions for near-optimal task and motion planning
+  venue: Proceedings of the International Joint Conference on Artificial Intelligence
   year: 2018
 vega-brown_WAFR16:
   authors:
@@ -3901,13 +4211,14 @@ vega-brown_WAFR16:
   - link: https://groups.csail.mit.edu/rrg/papers/vega-brown_wafr16a.pdf
     name: PDF
   - link: https://groups.csail.mit.edu/rrg/papers/vega-brown_wafr16b.pdf
-    name: compressed postscript
+    name: Compressed Postscript
   raw_string: "@inproceedings{vega-brown_WAFR16,\n  title={Asymptotically optimal\
     \ planning under piecewise-analytic constraints},\n  author={William Vega-Brown\
     \ and Nicholas Roy},\n  booktitle={Workshop on the Algorithmic Foundations of\
     \ Robotics},\n  year={2016},\n  address={San Francisco, CA},\n  url={https://groups.csail.mit.edu/rrg/papers/vega-brown_wafr16a.pdf},\n\
     \  note={https://groups.csail.mit.edu/rrg/papers/vega-brown_wafr16b.pdf}\n}\n"
   title: Asymptotically optimal planning under piecewise-analytic constraints
+  venue: Workshop on the Algorithmic Foundations of Robotics
   year: 2016
 vega2014nonparametric:
   authors:
@@ -3923,6 +4234,7 @@ vega2014nonparametric:
     \ Processing Systems},\n  volume={27},\n  year={2014},\n  url={https://groups.csail.mit.edu/rrg/papers/VegaBrown_NIPS2014.pdf}\n\
     }\n\n"
   title: Nonparametric Bayesian inference on multivariate exponential families
+  venue: Advances in Neural Information Processing Systems
   year: 2014
 vegabrownICRA13:
   authors:
@@ -3941,6 +4253,9 @@ vegabrownICRA13:
     \ (ICRA 2013)},\n  year =         {2013},\n  address =      {Karlsruhe, Germany},\n\
     \  url = {http://groups.csail.mit.edu/rrg/papers/vegabrown_icra13.pdf}\n}\n\n"
   title: 'CELLO: A Fast Algorithm for Covariance Estimation'
+  venue: 'Proceedings of the IEEE International Conference on Robotics
+
+    and Automation (ICRA 2013)'
   year: 2013
 veys_icra_24:
   authors:
@@ -3957,14 +4272,16 @@ veys_icra_24:
     \ url = {http://groups.csail.mit.edu/rrg/papers/veys_icra_24.pdf}\n}\n\n"
   title: Generating Sparse Probabilistic Graphs for Efficient Planning in Uncertain
     Environments
+  venue: 2024 International Conference on Robotics and Automation (ICRA)
   year: 2024
 vperetroukhin_rss20:
   authors:
   - V. Peretroukhin
   - M. Giamou
   - D. Rosen
-  - W. N. Greene
-  - N. Roy
+  - 'W. N. Greene
+
+    and N. Roy'
   - J. Kelly
   links:
   - link: http://groups.csail.mit.edu/rrg/papers/vperetroukhin-rss20.pdf
@@ -3978,6 +4295,7 @@ vperetroukhin_rss20:
   title: 'A Smooth Representation of SO(3) for Deep Rotation Learning
 
     with Uncertainty'
+  venue: Proceedings of Robotics Science and Systems
   year: 2020
 ware2016analysis:
   authors:
@@ -3994,4 +4312,5 @@ ware2016analysis:
     }\n\n"
   title: An analysis of wind field estimation and exploitation for quadrotor flight
     in the urban canopy layer
+  venue: 2016 IEEE International Conference on Robotics and Automation (ICRA)
   year: 2016
