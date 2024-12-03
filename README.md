@@ -46,7 +46,7 @@ kurtz_prentice_fricra24:
   year: 2024
 ```
 
-Note: The authors, links, title, and year are used to automatically make the entry/text/links on the publications page of the website. The raw_string is what is displayed in the 'BibTex' dropdown on the publications page. Add all additional information  (e.g. organization, etc) to the raw_string param, not in the main yaml entry; otherwise, it will not be included in the bibtex entry (and the website currently does not support including other information on the main publications page).
+Note: The authors, links, title, and year are used to automatically make the entry/text/links on the publications page of the website. The raw_string is what is displayed in the 'BibTex' dropdown on the publications page. Add all additional information  (e.g. organization, etc) to the raw_string param, not in the main yaml entry; otherwise, it will not be included in the bibtex entry (and the website currently does not support including other information on the main publications page). This is because our citations have not been formatted consistently over the last 20+ years...
 
 # To add a research project to the website:
 Create a new markdown file in this directory: robustrobotics.github.io/_projects with the same structure as the other files in the directory. After committing the change, the project will automatically be added to the website. Note that you can archive projects (remove them from the home page and add them to the 'Past Projects' section of the Research page) using the 'status: inactive' flag in the project .md.
@@ -54,7 +54,7 @@ Create a new markdown file in this directory: robustrobotics.github.io/_projects
 # To add a news item to the website:
 Create a new markdown file in this directory: robustrobotics.github.io/_posts. Note that the first part of the name of the file should be the date of the post.
 
-Research Group Web Site Template
+This site is based on the Research Group Web Site Template, and uses bibere as a publications manager.
 ================================
 
 This is a [Jekyll][]-based Web site intended for research groups. Your group should be able to get up and running with minimal fuss.
@@ -92,7 +92,6 @@ Setup
 3. Clone the fork to your own machine: `git clone git@github.com:yourgroup/research-group-web.git`.
 4. Add an "upstream" remote for the original repository so you can stay abreast of bugfixes: `git remote add upstream https://github.com/uwsampa/research-group-web.git`.
 5. Customize. Start with the `_config.yml` file, where you enter the name of the site and its URL.
-6. Type `make` to build the site and then run `make serve` to view your site.
 7. Keep adding content. See below for instructions for each of the various sections.
 8. Periodically pull from the upstream repository: `git pull upstream master`.
 
@@ -103,8 +102,7 @@ Setup
 Publication List
 ----------------
 
-The list of publications is in `bib/pubs.bib`. Typing `make` will generate `pubs.html`, which contains a pretty, sorted HTML-formatted list of papers. The public page, `publications.html`, also has a link to download the original BibTeX.
-
+The publications list uses bibere, (https://github.com/ucinlp/bibere/tree/master), a Jekyll-only publications manager, to enable publications updating by editing only .yaml files. See more info on their webpage.
 
 News Items and Blog Posts
 -------------------------
@@ -159,23 +157,4 @@ People are listed in a [YAML][] file in `_data/people.yml`. You can list the nam
 Building
 --------
 
-The requirements for building the site are:
-
-* [Jekyll][]: run `gem install jekyll`
-* [bibble][]: available on `pip`
-* ssh and rsync, only if you want to deploy directly.
-
-`make` compiles the bibliography and the website content to the `_site`
-directory. To preview the site, run `jekyll serve`` and head to
-http://0.0.0.0:5000.
-
-
-Deploying to Your Sever
------------------------
-
-To set up deployments, edit the Makefile and look for the lines where `HOST` and `DIR` are defined. Change these to the host where your HTML files should be copied to.
-
-To upload a new version of the site via rsync over ssh, type `make deploy`. A web hook does this automatically when you push to GitHub. Be aware that the Makefile is configured to have rsync delete stray files from the destination directory.
-
-[Jekyll]: http://jekyllrb.com/
-[bibble]: https://github.com/sampsyo/bibble/
+The website is built entirely using Jekyll with github actions. It is automatically rebuilt every time that you generate a commit.
