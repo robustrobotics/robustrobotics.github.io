@@ -4314,3 +4314,23 @@ ware2016analysis:
     in the urban canopy layer
   venue: 2016 IEEE International Conference on Robotics and Automation (ICRA)
   year: 2016
+shaw_wafr24:
+  authors:
+  - Seiji Shaw
+  - Aidan Curtis
+  - Leslie Pack Kaelbling
+  - Tom{\'a}s Lozano-P{\'e}rez
+  - Nicholas Roy
+  links:
+  - link: http://groups.csail.mit.edu/rrg/papers/shaw_wafr24.pdf
+    name: PDF
+  raw_string: "@article{shaw_wafr2024,\n
+    \ title = {Towards Practical Finite Sample Bounds for Motion Planning in TAMP},\n
+    \ author = {Seiji Shaw, Aidan Curtis, Leslie Pack Kaelbling, Tomás Lozano-Pérez, and Nicholas Roy},\n
+    \ year = {2024},\n
+    \ url = {http://groups.csail.mit.edu/rrg/papers/shaw_wafr24.pdf},\n
+    \ journal = {Workshop on the Algorithmic Foundations of Robotics (WAFR)},\n
+    }\n\n"
+  title: Towards Practical Finite Sample Bounds for Motion Planning in TAMP
+  venue: Workshop on the Algorithmic Foundation of Robotics (WAFR)
+  year: 2024
