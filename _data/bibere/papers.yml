@@ -325,7 +325,7 @@ Brunskill08ISAIM:
   authors:
   - Emma Brunskill
   - Leslie Kaelbling
-  - Tomas Lozano-Perez
+  - Tomás Lozano-Pérez
   - 'Nicholas
 
     Roy'
@@ -335,7 +335,7 @@ Brunskill08ISAIM:
   - link: http://groups.csail.mit.edu/rrg/papers/isaim08-eb.ps.gz
     name: Compressed Postscript
   raw_string: "@InProceedings{Brunskill08ISAIM,\n  author =   {Emma Brunskill and\
-    \ Leslie Kaelbling and Tomas Lozano-Perez and Nicholas\nRoy},\n  title =    {Continuous-State\
+    \ Leslie Kaelbling and Tomás Lozano-Pérez and Nicholas\nRoy},\n  title =    {Continuous-State\
     \ POMDPs with Hybrid Dynamics},\n  booktitle =    {Proceedings of the Tenth International\
     \ Symposium on Artificial\nIntelligence and Mathematics (ISAIM)},\n  year =  \
     \ {2008},\n  address =  {Fort Lauderdale, FL},\n  month =  {January},\n  url =\
@@ -3478,14 +3478,14 @@ moses_noseworthy_icra20:
   - Caris Moses
   - Michael Noseworthy
   - Leslie Pack Kaelbling
-  - Tom{\'a}s Lozano-P{\'e}rez
+  - Tomás Lozano-Pérez
   - Nicholas Roy
   links:
   - link: http://groups.csail.mit.edu/rrg/papers/moses_noseworthy_icra20.pdf
     name: PDF
   raw_string: "@inproceedings{moses_noseworthy_icra20,\n title={Visual Prediction\
     \ of Priors for Articulated Object Interaction},\n author={Moses, Caris and Noseworthy,\
-    \ Michael and Kaelbling, Leslie Pack and Lozano-P{\\'e}rez, Tom{\\'a}s and Roy,\
+    \ Michael and Kaelbling, Leslie Pack and Lozano-Pérez,Tomás and Roy,\
     \ Nicholas},\n booktitle={2020 International Conference on Robotics and Automation\
     \ (ICRA)},\n pages={10480--10486},\n year={2020},\n organization={IEEE},\n url\
     \ = {http://groups.csail.mit.edu/rrg/papers/moses_noseworthy_icra20.pdf}\n}\n\n"
@@ -3535,15 +3535,14 @@ noseworthy_moses_brand_rss21:
   - Isaiah Brand*
   - Sebastian Castro
   - Leslie Pack Kaelbling
-  - Tom{\'a}s Lozano-P{\'e}rez
+  - Tomás Lozano-Pérez
   - Nicholas Roy
   links:
   - link: http://groups.csail.mit.edu/rrg/papers/noseworthy_moses_brand_rss21.pdf
     name: PDF
   raw_string: "@inproceedings{noseworthy_moses_brand_rss21,\n title={Active Learning\
     \ of Abstract Plan Feasibility},\n author={Noseworthy*, Michael and Moses*, Caris\
-    \ and Brand*, Isaiah and Castro, Sebastian and Kaelbling, Leslie Pack and Lozano-P{\\\
-    'e}rez, Tom{\\'a}s and Roy, Nicholas},\n booktitle ={Proceedings of Robotics Science\
+    \ and Brand*, Isaiah and Castro, Sebastian and Kaelbling, Leslie Pack and Lozano-Pérez, Tomás and Roy, Nicholas},\n booktitle ={Proceedings of Robotics Science\
     \ and Systems (RSS)},\n year={2021},\n url = {http://groups.csail.mit.edu/rrg/papers/noseworthy_moses_brand_rss21.pdf}\n\
     }\n\n"
   title: Active Learning of Abstract Plan Feasibility
@@ -4319,7 +4318,7 @@ shaw_wafr24:
   - Seiji Shaw
   - Aidan Curtis
   - Leslie Pack Kaelbling
-  - Tom{\'a}s Lozano-P{\'e}rez
+  - Tomás Lozano-Pérez
   - Nicholas Roy
   links:
   - link: http://groups.csail.mit.edu/rrg/papers/shaw_wafr24.pdf
