@@ -37,7 +37,9 @@ tmanderson:
 
 cbradley:
     display_name: "Christopher Bradley"
-    role: grad
+    webpage: "https://cpbradley.github.io"
+    role: postdoc
+    image: /image/people/cbradley.jpeg
 
 echen:
     display_name: "Eric Chen"
