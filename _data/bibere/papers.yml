@@ -3001,6 +3001,19 @@ cbradley_corl22:
   venue: CoRL 2022 Workshop on Learning, Perception, and Abstraction for Long-Horizon
     Planning
   year: 2022
+cbradley_isrr24:
+  authors:
+  - Aaron Ray*
+  - Christopher Bradley*
+  - Luca Carlone
+  - Nick Roy
+  links:
+  - link: http://groups.csail.mit.edu/rrg/papers/cbradley_isrr_2024.pdf
+    name: PDF
+  raw_string: "@article{ray2024task,\n title={Task and Motion Planning in Hierarchical 3D Scene Graphs},\n author={Ray, Aaron and Bradley, Christopher and Carlone, Luca and Roy, Nicholas},\n journal={arXiv preprint arXiv:2403.08094},\n year={2024}\n}\n\n"
+  title: Task and Motion Planning in Hierarchical 3D Scene Graphs
+  venue: 40th International Symposium of Robotics Research (ISRR 2024)
+  year: 2024
 cbradley_icra21:
   authors:
   - Christopher Bradley
