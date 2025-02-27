@@ -18,12 +18,6 @@ sancha:
     role: scientist
     image: /img/people/sancha.png
 
-Neidhoefer:
-    display_name: "Jim Neidhoefer"
-    webpage: "https://aeroastro.mit.edu/realm/team/jim-neidhoefer/"
-    role: scientist
-    image: /img/people/neidhoefer.jpg
-
 jarkin:
     display_name: "Jacob Arkin"
     webpage: "https://aeroastro.mit.edu/realm/team/jake-arkin/"
