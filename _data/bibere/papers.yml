@@ -4346,3 +4346,30 @@ shaw_wafr24:
   title: Towards Practical Finite Sample Bounds for Motion Planning in TAMP
   venue: Workshop on the Algorithmic Foundation of Robotics (WAFR)
   year: 2024
+noseworthy_ral25:
+  authors:
+  - Michael Noseworthy
+  - Bingjie Tang
+  - Bowen Wen
+  - Ankur Handa
+  - Chad Kessens
+  - Nicholas Roy
+  - Dieter Fox
+  - Fabio Ramos
+  - Yashraj Narang
+  - Iretiayo Akinola
+  links:
+  - link: https://noseworm.github.io/forge/static/forge_paper.pdf
+    name: PDF
+  - link: https://noseworm.github.io/forge/
+    name: Website
+  raw_string: "@ARTICLE{noseworthy_ral25, \n
+    \ author={Noseworthy, Michael and Tang, Bingjie and Wen, Bowen and Handa, Ankur and Kessens, Chad and Roy, Nicholas and Fox, Dieter and Ramos, Fabio and Narang, Yashraj and Akinola, Iretiayo}, \n
+    \ journal={IEEE Robotics and Automation Letters}, \n
+    \ title={FORGE: Force-Guided Exploration for Robust Contact-Rich Manipulation Under Uncertainty}, \n
+    \ year={2025},\n
+    }\n\n"
+  title: 'FORGE: Force-Guided Exploration for Robust Contact-Rich Manipulation Under Uncertainty'
+  venue: IEEE Robotics and Automation Letters
+  year: 2025
+ 
