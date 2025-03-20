@@ -4374,7 +4374,7 @@ noseworthy_ral25:
   year: 2025
 arkin_icra24a:
   authors:
-  - Yonchao Chen
+  - Yongchao Chen
   - Jacob Arkin
   - Charles Dawson
   - Yang Zhang
@@ -4400,7 +4400,7 @@ arkin_icra24a:
   year: 2024
 arkin_icra24b:
   authors:
-  - Yonchao Chen
+  - Yongchao Chen
   - Jacob Arkin
   - Yang Zhang
   - Nicholas Roy
@@ -4425,7 +4425,7 @@ arkin_icra24b:
   year: 2024
 arkin_emnlp24:
   authors:
-  - Yonchao Chen
+  - Yongchao Chen
   - Jacob Arkin
   - Yilun Hao
   - Yang Zhang
