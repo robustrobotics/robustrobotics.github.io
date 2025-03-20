@@ -4372,4 +4372,79 @@ noseworthy_ral25:
   title: 'FORGE: Force-Guided Exploration for Robust Contact-Rich Manipulation Under Uncertainty'
   venue: IEEE Robotics and Automation Letters
   year: 2025
- 
+arkin_icra24a:
+  authors:
+  - Yonchao Chen
+  - Jacob Arkin
+  - Charles Dawson
+  - Yang Zhang
+  - Nicholas Roy
+  - Chuchu Fan
+  links:
+  - link:  
+    name: PDF
+  - link: https://arxiv.org/abs/2306.06531
+    name: arXiv
+  - link: https://yongchao98.github.io/MIT-REALM-AutoTAMP/
+    name: Website
+  raw_string: "@inproceedings{chen2024autotamp,\n
+    \ title={Autotamp: Autoregressive task and motion planning with llms as translators and checkers},\n
+    \ author={Chen, Yongchao and Arkin, Jacob and Dawson, Charles and Zhang, Yang and Roy, Nicholas and Fan, Chuchu},\n
+    \ booktitle={2024 IEEE International conference on robotics and automation (ICRA)},\n
+    \ pages={6695--6702},\n
+    \ year={2024},\n
+    \ organization={IEEE}\n
+    }\n\n"
+  title: 'AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers'
+  venue: 2024 IEEE International Conference on Robotics and Automation (ICRA) 
+  year: 2024
+arkin_icra24b:
+  authors:
+  - Yonchao Chen
+  - Jacob Arkin
+  - Yang Zhang
+  - Nicholas Roy
+  - Chuchu Fan
+  links:
+  - link:  
+    name: PDF
+  - link: https://arxiv.org/abs/2309.15943
+    name: arXiv
+  - link: https://yongchao98.github.io/MIT-REALM-Multi-Robot/
+    name: Website
+  raw_string: "@inproceedings{chen2024scalable,\n
+  \ title={Scalable multi-robot collaboration with large language models: Centralized or decentralized systems?},\n
+  \ author={Chen, Yongchao and Arkin, Jacob and Zhang, Yang and Roy, Nicholas and Fan, Chuchu},\n
+  \ booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},\n
+  \ pages={4311--4317},\n
+  \ year={2024},\n
+  \ organization={IEEE}\n
+  }\n\n"
+  title: 'Scalable Multi-robot Collaboration with Large Language Models: Centralized or Decentralized Systems?'
+  venue: 2024 IEEE International Conference on Robotics and Automation (ICRA) 
+  year: 2024
+arkin_emnlp24:
+  authors:
+  - Yonchao Chen
+  - Jacob Arkin
+  - Yilun Hao
+  - Yang Zhang
+  - Nicholas Roy
+  - Chuchu Fan
+  links:
+  - link:  
+    name: PDF
+  - link: https://arxiv.org/abs/2402.08702
+    name: arXiv
+  - link: https://yongchao98.github.io/MIT-REALM-PROMST/
+    name: Website
+  raw_string: "@inproceedings{chen2024prompt,\n
+  \ title={PRompt Optimization in Multi-Step Tasks (PROMST): Integrating Human Feedback and Heuristic-based Sampling},\n
+  \ author={Chen, Yongchao and Arkin, Jacob and Hao, Yilun and Zhang, Yang and Roy, Nicholas and Fan, Chuchu},\n
+  \ booktitle={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},\n
+  \ pages={3859--3920},\n
+  \ year={2024}\n
+  }\n\n"
+  title: 'PRompt Optimization in Multi-Step Tasks (PROMST): Integrating Human Feedback and Heuristic-based Sampling'
+  venue: 2024 Conference on Empirical Methods in Natural Language Processing
+  year: 2024
