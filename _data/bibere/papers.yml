@@ -4455,7 +4455,7 @@ fuentes_icra25:
   - Ethan Fahnestock
   - Nicholas Roy
   links:
-  - link: https://arxiv.org/abs/2402.08702
+  - link: https://arxiv.org/abs/2501.17982
     name: arXiv
   - link: https://github.com/ewfuentes/robot/tree/main/experimental/beacon_sim 
     name: Code
@@ -4479,7 +4479,7 @@ fahnestock_ral25:
   - Thomas Howard
   - Nicholas Roy
   links:
-  - link: https://groups.csail.mit.edu/rrg/papers/fahnestock_ral25.pdf
+  - link: https://robustrobotics.github.io/papers/fahnestock_ral25.pdf
     name: PDF
   - link: https://github.com/efahnestock/fitam
     name: Code
