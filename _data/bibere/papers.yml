@@ -4448,3 +4448,54 @@ arkin_emnlp24:
   title: 'PRompt Optimization in Multi-Step Tasks (PROMST): Integrating Human Feedback and Heuristic-based Sampling'
   venue: 2024 Conference on Empirical Methods in Natural Language Processing
   year: 2024
+fuentes_icra25:
+  authors:
+  - Erick Fuentes
+  - Jared Strader
+  - Ethan Fahnestock
+  - Nicholas Roy
+  links:
+  - link: https://arxiv.org/abs/2402.08702
+    name: arXiv
+  - link: https://github.com/ewfuentes/robot/tree/main/experimental/beacon_sim 
+    name: Code
+  raw_string: "@inproceedings{fuentes2025belief,\n
+  \ title={Belief Roadmaps with Uncertain Landmark Evanescence},\n
+  \ author={Fuentes, Erick and Strader, Jared and Fahnestock, Ethan and Roy, Nicholas},\n
+  \ booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)},\n
+  \ year={2025},\n
+  \ organization={IEEE}\n
+  }\n\n"
+  title: 'Belief Roadmaps with Uncertain Landmark Evanescence'
+  venue: 2025 IEEE International Conference on Robotics and Automation (ICRA) 
+  year: 2025
+fahnestock_ral25:
+  authors:
+  - Ethan Fahnestock
+  - Erick Fuentes
+  - Samuel Prentice
+  - Vasileios Vasilopoulos
+  - Philip R Osteen
+  - Thomas Howard
+  - Nicholas Roy
+  links:
+  - link: https://groups.csail.mit.edu/rrg/papers/fahnestock_ral25.pdf
+    name: PDF
+  - link: https://github.com/efahnestock/fitam
+    name: Code
+  - link: https://youtu.be/aSIf90Uh1vY 
+    name: Video
+  raw_string: "@ARTICLE{10974571,\n
+    \ author={Fahnestock, Ethan and Fuentes, Erick and Prentice, Samuel and Vasilopoulos, Vasileios and Osteen, Philip R and Howard, Thomas and Roy, Nicholas},\n
+    \ journal={IEEE Robotics and Automation Letters},\n
+    \ title={Far-Field Image-Based Traversability Mapping for a Priori Unknown Natural Environments},\n
+    \ year={2025},\n
+    \ volume={10},\n
+    \ number={6},\n
+    \ pages={6039-6046},\n
+    \ keywords={Costs;Robots;Navigation;Robot sensing systems;Roads;Distance measurement;Space exploration;Planning;Laser radar;Trajectory;Vision-based navigation;field robots;far-field perception},\n
+    \ doi={10.1109/LRA.2025.3563808}\n
+    }\n\n"
+  title: 'Far-Field Image-Based Traversability Mapping for a Priori Unknown Natural Environments'
+  venue: IEEE Robotics and Automation Letters
+  year: 2025
