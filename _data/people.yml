@@ -485,7 +485,7 @@ jwiken:
 #     role: collab
 
 ugrad-a:
-    display_name: "Atharv Jain"
+    display_name: Yibo Cheng
     role: ugrad
 
 ugrad-alum-a:
@@ -518,5 +518,9 @@ ugrad-alum-g:
 
 ugrad-alum-h:
     display_name: "Stephanie Fu"
+    role: ugrad-alum
+
+ugrad-alum-g:
+    display_name: "Atharv Jain"
     role: ugrad-alum
 
