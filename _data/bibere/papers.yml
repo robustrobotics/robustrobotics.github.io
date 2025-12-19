@@ -4499,3 +4499,29 @@ fahnestock_ral25:
   title: 'Far-Field Image-Based Traversability Mapping for a Priori Unknown Natural Environments'
   venue: IEEE Robotics and Automation Letters
   year: 2025
+veys_iser25:
+  authors:
+  - Yasmin Veys*
+  - Harel Biggie*
+  - Martina Stadler Kurtz*
+  - Samuel Prentice*
+  - Jacob Arkin
+  - Travis Manderson
+  - Akila Saravanan
+  - Carlos Nieto-Granda
+  - Long Quang
+  - Ethan Stump
+  - Chuchu Fan
+  - Luca Carlone
+  - Jonathan How
+  - Nicholas Roy
+  links:
+  - link: https://robustrobotics.github.io/papers/veys_biggie_kurtz_prentice_iser25.pdf
+    name: PDF
+  raw_string: "@inproceedings{veys_biggie_kurtz_prentice_iser25,\n title={Hierarchical Uncertainty-Aware Multi-agent Collaborative Planning System},\n
+    author={Veys*, Yasmin and Biggie*, Harel and Kurtz*, Martina Stadler and Prentice*, Samuel and Arkin, Jacob and Manderson, Travis and Saravanan, Akila and Nieto-Granda, Carlos and Quang, Long and Stump, Ethan and Fan, Chuchu and Carlone, Luca and How, Jonathan and Roy, Nicholas},\n\
+    \ booktitle={Proceedings of the International Symposium on Experimental Robotics},\n  year={2025},\n  url = {https://robustrobotics.github.io/papers/veys_biggie_kurtz_prentice_iser25.pdf}\n\
+    }\n\n\n"
+  title: 'Hierarchical Uncertainty-Aware Multi-agent Collaborative Planning System'
+  venue: International Symposium on Experimental Robotics
+  year: 2025
