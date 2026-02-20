@@ -488,6 +488,10 @@ ugrad-a:
     display_name: Yibo Cheng
     role: ugrad
 
+ugrad-b:
+    display_name: Eric Zhan
+    role: ugrad
+
 ugrad-alum-a:
     display_name: "Joana Nikolova"
     role: ugrad-alum-alum
