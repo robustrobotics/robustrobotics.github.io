@@ -4525,3 +4525,20 @@ veys_iser25:
   title: 'Hierarchical Uncertainty-Aware Multi-agent Collaborative Planning System'
   venue: International Symposium on Experimental Robotics
   year: 2025
+shaw_wafr26:
+  authors:
+  - Seiji Shaw
+  - Travis Manderson
+  - Chad Kessens
+  - Nicholas Roy
+  links:
+  - link: https://robustrobotics.github.io/papers/shaw_wafr_26.pdf
+    name: PDF
+  raw_string: "@inproceedings{shaw_wafr26,\n title={Toward Learning POMDPs Beyond Full-Rank Actions and State Observability
+},\n
+    author={Shaw, Seiji and Manderson, Travis, and Kessens, Chad, and Roy, Nicholas},\n\
+    \ booktitle={World Symposium on the Algorithmic Foundations of Robotics (WAFR)},\n  year={2026},\n  url = {https://robustrobotics.github.io/papers/shaw_wafr_26.pdf}\n\
+    }\n\n\n"
+  title: 'Toward Learning POMDPs Beyond Full-Rank Actions and State Observability'
+  venue: World Symposium on the Algorithmic Foundations of Robotics (WAFR)
+  year: 2026
