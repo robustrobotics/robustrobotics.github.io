@@ -4542,3 +4542,21 @@ shaw_wafr26:
   title: 'Toward Learning POMDPs Beyond Full-Rank Actions and State Observability'
   venue: World Symposium on the Algorithmic Foundations of Robotics (WAFR)
   year: 2026
+ray_icra26:
+  authors:
+  - Aaron Ray
+  - Jacob Arkin
+  - Harel Biggie
+  - Chuchu Fan
+  - Luca Carlone
+  - Nicholas Roy
+  links:
+  - link: https://robustrobotics.github.io/papers/ray_icra26.pdf
+    name: PDF
+  - link: https://arxiv.org/abs/2510.16643
+    name: arXiv
+  title: 'Structured Interfaces for Automated Reasoning with 3D Scene Graphs'
+  venue: '2026 IEEE International Conference on Robotics and Automation (ICRA)'
+  year: 2026
+
+
