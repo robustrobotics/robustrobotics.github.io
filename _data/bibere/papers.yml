@@ -4555,6 +4555,13 @@ ray_icra26:
     name: PDF
   - link: https://arxiv.org/abs/2510.16643
     name: arXiv
+  raw_string: "@inproceedings{ray_icra26,\n
+  \ title={Structured Interfaces for Automated Reasoning with 3D Scene Graphs},\n
+  \ author={Ray*, Aaron and Arkin*, Jacob and Biggie, Harel and Fan, Chuchu and Carlone, Luca and Roy, Nicholas},\n
+  \ booktitle={2026 IEEE International Conference on Robotics and Automation (ICRA)},\n
+  \ year={2026},\n
+  \ organization={IEEE}\n
+  }\n\n"
   title: 'Structured Interfaces for Automated Reasoning with 3D Scene Graphs'
   venue: '2026 IEEE International Conference on Robotics and Automation (ICRA)'
   year: 2026
