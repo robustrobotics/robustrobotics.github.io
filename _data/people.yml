@@ -86,6 +86,12 @@ yveys:
     role: grad
     image: /img/people/yveys.png
 
+brossano:
+    display_name: "Ben Rossano"
+    role: grad
+    webpage: "https://benrossano.com/"
+    image: /img/people/brossano.jpg
+
 ibrand:
     display_name: "Izzy Brand"
     bio: "On leave"
